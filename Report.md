@@ -64,9 +64,7 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 
 
 
-#### ![Salvia Candelabrum](https://user-images.githubusercontent.com/103578333/169118888-7eff5fe1-caf1-4ffa-9020-75e190c8cc4d.png)
-
-![image](https://user-images.githubusercontent.com/103578333/169149876-5933a88f-a539-476c-aefc-121d39db55ca.png)
+#### ![Salvia Candelabrum](https://user-images.githubusercontent.com/103578333/169149876-5933a88f-a539-476c-aefc-121d39db55ca.png)
 
 
 ## Material & Methods
