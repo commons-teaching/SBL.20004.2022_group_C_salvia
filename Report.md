@@ -5,8 +5,8 @@ SBL.20004
 
 ----
 Group C
-- List Christelle Brumann
-- List Gloria Lampo
+-  Christelle Brumann
+-  Gloria Lampo
 ----
 
 
