@@ -37,15 +37,15 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 *Clades:*
 
 Glutinaria:     S. Miltiorrhiza, S. Nubicola, S. Przewalskii
+![Clade Glutinaria](https://user-images.githubusercontent.com/103578333/169115651-2792f1c0-b83a-4c2b-b026-b4dbf15c1e5d.png)
+
 Heterospheae:   S. Scabra
 
 Salvia:         S. Officinialis (3 different strains), S. Interrupta
-
 ![Clade Salvia](https://user-images.githubusercontent.com/103578333/169113739-54abebca-50f4-439a-b167-deac24c03c03.png)
 
 Sclarea:        S. Argentae, S. Candidissima, S. Palastina, S. Sclarea
 
-![Clade Sclarea](https://user-images.githubusercontent.com/103578333/169115651-2792f1c0-b83a-4c2b-b026-b4dbf15c1e5d.png)
 
 
 ![image](https://user-images.githubusercontent.com/103578333/169103910-539f0304-f160-44e4-9edf-290dc48746a4.png)
