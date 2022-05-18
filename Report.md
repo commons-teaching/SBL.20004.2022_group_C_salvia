@@ -45,22 +45,22 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 
 ![Clade Heterospheae](https://user-images.githubusercontent.com/103578333/169148462-a52c2976-12aa-49e9-b19a-be57b769ec4c.png)
 
-![image](https://user-images.githubusercontent.com/103578333/169148708-f59a9f4e-f9bd-43a9-92db-c1a2f9937b34.png)
-
 #### 3. Salvia:     
 
-![Clade Salvia](https://user-images.githubusercontent.com/103578333/169113739-54abebca-50f4-439a-b167-deac24c03c03.png)
-![image](https://user-images.githubusercontent.com/103578333/169148133-80c1a659-db9d-4324-b917-2b1bf742079c.png)
+![Clade Salvia](https://user-images.githubusercontent.com/103578333/169148133-80c1a659-db9d-4324-b917-2b1bf742079c.png)
 
 ![image](https://user-images.githubusercontent.com/103578333/169149633-c7ea0e51-2533-40b7-b680-37df768e71ad.png)
 
 
 #### 4. Sclarea:   
 
-![Clade Sclarea](https://user-images.githubusercontent.com/103578333/169151236-3b367e1d-7a12-4294-80aa-cbe396114d2f.png)
+![Clade Sclarea](https://user-images.githubusercontent.com/103578333/169152368-3339366b-4021-40a1-8408-57b84b92f232.png)
 
+#### 5. ND:
 
-#### ![Salvia Candelabrum](https://user-images.githubusercontent.com/103578333/169149876-5933a88f-a539-476c-aefc-121d39db55ca.png)
+![Salvia Candelabrum](https://user-images.githubusercontent.com/103578333/169149876-5933a88f-a539-476c-aefc-121d39db55ca.png)
+
+![Salvia Verticillata](https://user-images.githubusercontent.com/103578333/169152780-40444591-254b-4031-8d3f-d0f57c67624e.png)
 
 
 ## Material & Methods
