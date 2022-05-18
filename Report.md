@@ -122,12 +122,11 @@ Protocol :
 
 - Describe the LC conditions
 
-We don’t wash the LC -column between samples and don’t add blanks between them either. The first run is performed with the blank and samples are stored in a cold chamber at 10°C before loading. Then a mixture of all samples is made and injected as a wash to set basis conditions before the injection of samples. (Q-Exactive)
-The column is heated in order to reduce the viscosity of the running phase. It reduced the pressure required to push samples and analysis time. One run is done in 8 min. The gradient increases until the 6th minute and then stays at a high level of hydrophobicity. It means at the beginning of the run it’s low hydrophobic and then it’s high hydrophobic. 
+We don’t wash the LC -column between samples and don’t add blanks between them either. The first run is performed with the blank and samples are stored in a cold chamber at 10°C before loading. Then a mixture of all samples is made and injected as a wash to set basis conditions before the injection of samples. The column is heated in order to reduce the viscosity of the running phase. It reduced the pressure required to push samples and analysis time. One run is done in 8 min. The gradient increases until the 6th minute and then stays at a high level of hydrophobicity. It means at the beginning of the run it’s low hydrophobic and then it’s high hydrophobic. 
 
 - Describe the MS conditions
 
-*...add things*
+*...add things* (Q-Exactive)
 
 ### Data treatment
 
