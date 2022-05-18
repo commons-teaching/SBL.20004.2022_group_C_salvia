@@ -43,7 +43,7 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 
 #### 2. Heterospheae:
 
-![Clade Heterospheae](https://user-images.githubusercontent.com/103578333/169116884-31b364e5-465f-43bf-bc13-29f0d04ee116.png)
+![Clade Heterospheae](https://user-images.githubusercontent.com/103578333/169148462-a52c2976-12aa-49e9-b19a-be57b769ec4c.png)
 
 ![image](https://user-images.githubusercontent.com/103578333/169148708-f59a9f4e-f9bd-43a9-92db-c1a2f9937b34.png)
 
@@ -57,7 +57,7 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 
 ![Clade Sclarea](https://user-images.githubusercontent.com/103578333/169117817-67888ce6-d1e7-425b-83eb-c1e4c952ec06.png)
 
-![image](https://user-images.githubusercontent.com/103578333/169148462-a52c2976-12aa-49e9-b19a-be57b769ec4c.png)
+
 
 ![image](https://user-images.githubusercontent.com/103578333/169149633-c7ea0e51-2533-40b7-b680-37df768e71ad.png)
 
