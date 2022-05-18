@@ -57,13 +57,10 @@ Go to the export link of the DBGI project on inaturalist https://www.inaturalist
 Apply eventual filters (fo rexample by username)
 Save the csv and upload to github.
 
-
 Example see [table X](https://github.com/commons-teaching/SBL.20004.2022/blob/main/data/observations-238383.csv) 
-**Harvest and samples conditioning
+*...add things*
 
-
-
-On April 13, 2022 14 leaves of plants were collected in the afternoon and directly frozen in liquid nitrogen. Then samples were dried for 24 hours and stored at -80°C. 
+On April 13, 2022 14 leaves of plants were collected in the botanical garden of Fribourg and directly frozen in liquid nitrogen. Then samples were dried for 24 hours and stored at -80°C. 
 It was a sunny day (average temperature 15.8°C in Fribourg [^10]). Plants observations were loaded with their geo-localisation on the INaturalist website (DBGI project) [^11].
 
 Material :
@@ -97,7 +94,6 @@ Spin tubes (this step is not required for the blank tube)
 Prepare labels : DBGI-07-n°sample
 Transfer 1mL supernatant in glass vial and screw caps
 Store them at -80°C  
-
 
 ### LCMS Analysis
 
