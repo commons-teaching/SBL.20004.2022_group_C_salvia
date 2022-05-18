@@ -53,6 +53,9 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 
 ![Clade Sclarea](https://user-images.githubusercontent.com/103578333/169117817-67888ce6-d1e7-425b-83eb-c1e4c952ec06.png)
 
+#### ![Salvia Candelabrum](https://user-images.githubusercontent.com/103578333/169118888-7eff5fe1-caf1-4ffa-9020-75e190c8cc4d.png)
+
+
 ## Material & Methods
 
 ### Sample collection
