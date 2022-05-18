@@ -89,11 +89,11 @@ It was a sunny day (average temperature 15.8°C in Fribourg [^10]). Plants obser
 
 
 Material :
--Smartphone (take picture and load them with the application INaturalist)
--Knife and tweezers (collect more or less one leave of each plants: ≥50g dry sample per strain)
--14x 15mL Eppendorf tubes
--Liquid nitrogen in expanded polystyrene box or in its suitable bucket
--Dryer (Manufacturer Zirbus technology)
+- Smartphone (take picture and load them with the application INaturalist)
+- Knife and tweezers (collect more or less one leave of each plants: ≥50g dry sample per strain)
+- 14x 15mL Eppendorf tubes
+- Liquid nitrogen in expanded polystyrene box or in its suitable bucket
+- Dryer (Manufacturer Zirbus technology)
 
 ### Sample preparation
 
@@ -102,23 +102,23 @@ Material :
 This step requires the following material and tasks. 
 
 Material :
--Tweezers
--Analytical weight-scale 
--15x 1.5mL Eppendorf tubes and 15x glass vials with their caps 
--Liquid nitrogen in its bucket 
--Iron beads (3x per samples)
--Mixer mill MM 400 (Manufacturer Retsch)
--Spinner for 1.5mL Eppendorf tube
+- Tweezers
+- Analytical weight-scale 
+- 15x 1.5mL Eppendorf tubes and 15x glass vials with their caps 
+- Liquid nitrogen in its bucket 
+- Iron beads (3x per samples)
+- Mixer mill MM 400 (Manufacturer Retsch)
+- Spinner for 1.5mL Eppendorf tube
 
 Protocol :
-Weigh 50g  ± 0.5g in a 1.5mL Eppendorf tube (use gloves, glasses and lab coat)
-Add 3 iron beads per tubes and add one tube with 3 beads (blank)
-Disrupt cells (Program: 30Hz, 3min) at room temperature
-Add 170µL of extraction solution MeOH/H2O/formic acid (80:20:0.1) in each sample tubes and blank
-Spin tubes (this step is not required for the blank tube)
-Prepare labels : DBGI-07-n°sample
-Transfer 1mL supernatant in glass vial and screw caps
-Store them at -80°C  
+- Weigh 50g  ± 0.5g in a 1.5mL Eppendorf tube (use gloves, glasses and lab coat)
+- Add 3 iron beads per tubes and add one tube with 3 beads (blank)
+- Disrupt cells (Program: 30Hz, 3min) at room temperature
+- Add 170µL of extraction solution MeOH/H2O/formic acid (80:20:0.1) in each sample tubes and blank
+- Spin tubes (this step is not required for the blank tube)
+- Prepare labels : DBGI-07-n°sample
+- Transfer 1mL supernatant in glass vial and screw caps
+- Store them at -80°C  
 
 ### LCMS Analysis
 
