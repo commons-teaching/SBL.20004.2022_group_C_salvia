@@ -41,55 +41,15 @@ Heterospheae:   S. Scabra
 Salvia:         S. Officinialis (3 different strains), S. Interrupta
 Sclarea:        S. Argentae, S. Candidissima, S. Palastina, S. Sclarea
 
+![image](https://user-images.githubusercontent.com/103578333/169103910-539f0304-f160-44e4-9edf-290dc48746a4.png)
+
 
 ## Material & Methods
 
-**Harvest and samples conditioning
+### Sample collection
 
 On April 13, 2022 14 leaves of plants were collected in the afternoon and directly frozen in liquid nitrogen. Then samples were dried for 24 hours and stored at -80°C. 
-It was a sunny day (average temperature 15.8°C in Fribourg [10]). Plants observations were loaded with their geo-localisation on the INaturalist website (DBGI project) [11].
-
-Material :
-*Smartphone (take picture and load them with the application INaturalist)
-Knife and tweezers (collect more or less one leave of each plants: ≥50g dry sample per strain)
-14x 15mL Eppendorf tubes
-Liquid nitrogen in expanded polystyrene box or in its suitable bucket
-Dryer (Manufacturer Zirbus technology)
-Extraction
-This step requires the following material and tasks. 
-Material :
-Tweezers
-Analytical weight-scale 
-15x 1.5mL Eppendorf tubes and 15x glass vials with their caps 
-Liquid nitrogen in its bucket 
-Iron beads (3x per samples)
-Mixer mill MM 400 (Manufacturer Retsch)
-Spinner for 1.5mL Eppendorf tube
-
-Protocol :
-*Weigh 50g  ± 0.5g in a 1.5mL Eppendorf tube (use gloves, glasses and lab coat)
-Add 3 iron beads per tubes and add one tube with 3 beads (blank)
-Disrupt cells (Program: 30Hz, 3min) at room temperature
-Add 170µL of extraction solution MeOH/H2O/formic acid (80:20:0.1) in each sample tubes and blank
-Spin tubes (this step is not required for the blank tube)
-Prepare labels : DBGI-07-n°sample
-Transfer 1mL supernatant in glass vial and screw caps
-Store them at -80°C  
-
-HPLC-MS (Q-Exactive)
-On Wednesday 4 Mai, we load samples. We don’t wash between samples and don’t add blanks between them either. The first run is performed with the blank and samples are stored in a cold chamber at 10°C before loading. Then a mixture of all samples is made and injected as a wash to set basis conditions before the injection of samples. 
-The column is heated in order to reduce the viscosity of the running phase. It reduced the pressure required to push samples and analysis time. One run is done in 8 min. The gradient increases until the 6th minute and then stays at a high level of hydrophobicity. It means at the beginning of the run it’s low hydrophobic and then it’s high hydrophobic. 
-
-**Data analysis
-
-Raw  data is on a switchdrive [12]. Files extension is converted in .mzML by proteowizard software [13] and then processed with MzMine 2.53 software. It allows us to filter pics and identify for example possible contaminants such as environmental pollution or plastic coming from lab furniture used. Pics are centroiding and then isotopes are grouped. Clean data with is then loaded on filezilla to have common access on the internet. From filezilla data is then loaded on GNPS (Global Natural Products Social Molecular Networking). We also used another software named cytoscape to visualise molecular networks. 
-The following setting were used:
-Molecular Networking and Spectral Library Search
-A molecular network was created with the Feature-Based Molecular Networking (FBMN) workflow (Nothias L-F, Petras D, Schmid R et al. Nature Methods 17, 905–908 (2020)) on GNPS (https://gnps.ucsd.edu, Wang M et al. Nat. Biotech. 2016). The mass spectrometry data were first processed with MZMINE2 (cite accordingly, see below in the Citations section) and the results were exported to GNPS for FBMN analysis. The precursor ion mass tolerance was set to 0.02 Da and the MS/MS fragment ion tolerance to 0.02 Da. A molecular network was then created where edges were filtered to have a cosine score above 0.7 and more than 6 matched peaks. Further, edges between two nodes were kept in the network if and only if each of the nodes appeared in each others respective top 10 most similar nodes. Finally, the maximum size of a molecular family was set to 100, and the lowest scoring edges were removed from molecular families until the molecular family size was below this threshold. The spectra in the network were then searched against GNPS spectral libraries (Cite Wang M, et al. Nature Biotech. 2016 and Horai, H. et al. J. Mass Spectrom. 45, 703-714 2010). The library spectra were filtered in the same manner as the input data. All matches kept between network spectra and library spectra were required to have a score above 0.7 and at least 6 matched peaks. The DEREPLICATOR was used to annotate MS/MS spectra (Mohimani, H. et al. Nat. Commun. 9, 4035 (2018)). The molecular networks were visualised using Cytoscape software (Shannon, P. et al. Genome Res. 13, 2498-2504 (2003)).
-Data Deposition and Job Accessibility
-The mass spectrometry data were deposited on public repository (provide the deposition accession number), such as MassIVE or MetaboLights. The molecular networking job can be publicly accessed at https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a (we recommend sharing this link in your manuscript).
-
-### Sample collection
+It was a sunny day (average temperature 15.8°C in Fribourg [^10]). Plants observations were loaded with their geo-localisation on the INaturalist website (DBGI project) [^11].
 
 - Where we the plants collected ? 
 - Which species were collected ? 
@@ -102,6 +62,58 @@ Save the csv and upload to github.
 
 
 Example see [table X](https://github.com/commons-teaching/SBL.20004.2022/blob/main/data/observations-238383.csv) 
+**Harvest and samples conditioning
+
+
+
+
+
+Material :
+*-Smartphone (take picture and load them with the application INaturalist)
+-Knife and tweezers (collect more or less one leave of each plants: ≥50g dry sample per strain)
+-14x 15mL Eppendorf tubes
+-Liquid nitrogen in expanded polystyrene box or in its suitable bucket
+-Dryer (Manufacturer Zirbus technology)
+
+**Extraction
+
+This step requires the following material and tasks. 
+
+Material :
+*-Tweezers
+-Analytical weight-scale 
+-15x 1.5mL Eppendorf tubes and 15x glass vials with their caps 
+-Liquid nitrogen in its bucket 
+-Iron beads (3x per samples)
+-Mixer mill MM 400 (Manufacturer Retsch)
+-Spinner for 1.5mL Eppendorf tube
+
+Protocol :
+*Weigh 50g  ± 0.5g in a 1.5mL Eppendorf tube (use gloves, glasses and lab coat)
+Add 3 iron beads per tubes and add one tube with 3 beads (blank)
+Disrupt cells (Program: 30Hz, 3min) at room temperature
+Add 170µL of extraction solution MeOH/H2O/formic acid (80:20:0.1) in each sample tubes and blank
+Spin tubes (this step is not required for the blank tube)
+Prepare labels : DBGI-07-n°sample
+Transfer 1mL supernatant in glass vial and screw caps
+Store them at -80°C  
+
+**LC-MS (Q-Exactive)
+
+On Wednesday 4 Mai, we load samples. We don’t wash the column between samples and don’t add blanks between them either. The first run is performed with the blank and samples are stored in a cold chamber at 10°C before loading. Then a mixture of all samples is made and injected as a wash to set basis conditions before the injection of samples. 
+The column is heated in order to reduce the viscosity of the running phase. It reduced the pressure required to push samples and analysis time. One run is done in 8 min. The gradient increases until the 6th minute and then stays at a high level of hydrophobicity. It means at the beginning of the run it’s low hydrophobic and then it’s high hydrophobic. 
+
+**Data analysis
+
+Raw  data is on a switchdrive [^12]. Files extension is converted in .mzML by proteowizard software [^13] and then processed with MzMine 2.53 software. It allows us to filter pics and identify for example possible contaminants such as environmental pollution or plastic coming from lab furniture used. Pics are centroiding and then isotopes are grouped. Clean data with is then loaded on filezilla to have common access on the internet. From filezilla data is then loaded on GNPS (Global Natural Products Social Molecular Networking). We also used another software named cytoscape to visualise molecular networks.
+
+The following setting were used:
+Molecular Networking and Spectral Library Search
+A molecular network was created with the Feature-Based Molecular Networking (FBMN) workflow (Nothias L-F, Petras D, Schmid R et al. Nature Methods 17, 905–908 (2020)) on GNPS (https://gnps.ucsd.edu, Wang M et al. Nat. Biotech. 2016). The mass spectrometry data were first processed with MZMINE2 (cite accordingly, see below in the Citations section) and the results were exported to GNPS for FBMN analysis. The precursor ion mass tolerance was set to 0.02 Da and the MS/MS fragment ion tolerance to 0.02 Da. A molecular network was then created where edges were filtered to have a cosine score above 0.7 and more than 6 matched peaks. Further, edges between two nodes were kept in the network if and only if each of the nodes appeared in each others respective top 10 most similar nodes. Finally, the maximum size of a molecular family was set to 100, and the lowest scoring edges were removed from molecular families until the molecular family size was below this threshold. The spectra in the network were then searched against GNPS spectral libraries (Cite Wang M, et al. Nature Biotech. 2016 and Horai, H. et al. J. Mass Spectrom. 45, 703-714 2010). The library spectra were filtered in the same manner as the input data. All matches kept between network spectra and library spectra were required to have a score above 0.7 and at least 6 matched peaks. The DEREPLICATOR was used to annotate MS/MS spectra (Mohimani, H. et al. Nat. Commun. 9, 4035 (2018)). The molecular networks were visualised using Cytoscape software (Shannon, P. et al. Genome Res. 13, 2498-2504 (2003)).
+Data Deposition and Job Accessibility
+The mass spectrometry data were deposited on public repository (provide the deposition accession number), such as MassIVE or MetaboLights. The molecular networking job can be publicly accessed at https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a (we recommend sharing this link in your manuscript).
+
+
 
 ### Sample preparation
 
@@ -136,16 +148,16 @@ Some conclusion that you could get out of this preliminary study.
 
 # References
 
-[^1] Kozlowski Gregor, Defossez Emmanuel, & Allard Pierre-Marie. (2021). Molecular cartography of the Botanical Garden of the University of Fribourg (1.1). Zenodo. https://doi.org/10.5281/zenodo.5726749
+[^1]: Kozlowski Gregor, Defossez Emmanuel, & Allard Pierre-Marie. (2021). Molecular cartography of the Botanical Garden of the University of Fribourg (1.1). Zenodo. https://doi.org/10.5281/zenodo.5726749
 
-[^2] Shouchuang Wang, Saleh Alseekh, Alisdair R. Fernie, Jie Luo. (2019). The Structure and Function of Major Plant Metabolite Modifications, Molecular Plant,  vol 12, issue 7, P899-919, https://doi.org/10.1016/j.molp.2019.06.001
+[^2]: Shouchuang Wang, Saleh Alseekh, Alisdair R. Fernie, Jie Luo. (2019). The Structure and Function of Major Plant Metabolite Modifications, Molecular Plant,  vol 12, issue 7, P899-919, https://doi.org/10.1016/j.molp.2019.06.001
 
-[^3] Jorge Tiago F., Mata Ana T. & António Carla. (2016). Mass spectrometry as a quantitative tool in plant metabolomics, Phil. Trans. R. Soc. A.3742015037020150370
+[^3]: Jorge Tiago F., Mata Ana T. & António Carla. (2016). Mass spectrometry as a quantitative tool in plant metabolomics, Phil. Trans. R. Soc. A.3742015037020150370
 http://doi.org/10.1098/rsta.2015.0370
 
-[^4] Malviya, Rishabha & Bansal, Vvipin & Pal, Om & Sharma, Pramod. (2010). High performance liquid chromatography: A short review. Journal of Global Pharma Technology. 2. 22-26. 
+[^4]: Malviya, Rishabha & Bansal, Vvipin & Pal, Om & Sharma, Pramod. (2010). High performance liquid chromatography: A short review. Journal of Global Pharma Technology. 2. 22-26. 
 
-[^5] Walther TC, Mann M. Mass spectrometry-based proteomics in cell biology. J Cell Biol. 2010 Aug 23;190(4):491-500. 
+[^5]: Walther TC, Mann M. Mass spectrometry-based proteomics in cell biology. J Cell Biol. 2010 Aug 23;190(4):491-500. 
 https://doi.org/10.1083/jcb.201004052
 
 [^6]
