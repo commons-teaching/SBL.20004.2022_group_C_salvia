@@ -48,9 +48,6 @@ Sclarea:        S. Argentae, S. Candidissima, S. Palastina, S. Sclarea
 
 ### Sample collection
 
-On April 13, 2022 14 leaves of plants were collected in the afternoon and directly frozen in liquid nitrogen. Then samples were dried for 24 hours and stored at -80°C. 
-It was a sunny day (average temperature 15.8°C in Fribourg [^10]). Plants observations were loaded with their geo-localisation on the INaturalist website (DBGI project) [^11].
-
 - Where we the plants collected ? 
 - Which species were collected ? 
 - Link to the iNaturalist entries of your species.
@@ -66,7 +63,8 @@ Example see [table X](https://github.com/commons-teaching/SBL.20004.2022/blob/ma
 
 
 
-
+On April 13, 2022 14 leaves of plants were collected in the afternoon and directly frozen in liquid nitrogen. Then samples were dried for 24 hours and stored at -80°C. 
+It was a sunny day (average temperature 15.8°C in Fribourg [^10]). Plants observations were loaded with their geo-localisation on the INaturalist website (DBGI project) [^11].
 
 Material :
 *-Smartphone (take picture and load them with the application INaturalist)
@@ -75,7 +73,9 @@ Material :
 -Liquid nitrogen in expanded polystyrene box or in its suitable bucket
 -Dryer (Manufacturer Zirbus technology)
 
-**Extraction
+### Sample preparation
+
+- Describe your sample preparation
 
 This step requires the following material and tasks. 
 
@@ -98,10 +98,16 @@ Prepare labels : DBGI-07-n°sample
 Transfer 1mL supernatant in glass vial and screw caps
 Store them at -80°C  
 
-**LC-MS (Q-Exactive)
 
-On Wednesday 4 Mai, we load samples. We don’t wash the column between samples and don’t add blanks between them either. The first run is performed with the blank and samples are stored in a cold chamber at 10°C before loading. Then a mixture of all samples is made and injected as a wash to set basis conditions before the injection of samples. 
+
+### LCMS Analysis
+
+- Describe the LC conditions
+
+On Wednesday 4 Mai, we load samples. We don’t wash the column between samples and don’t add blanks between them either. The first run is performed with the blank and samples are stored in a cold chamber at 10°C before loading. Then a mixture of all samples is made and injected as a wash to set basis conditions before the injection of samples. (Q-Exactive)
 The column is heated in order to reduce the viscosity of the running phase. It reduced the pressure required to push samples and analysis time. One run is done in 8 min. The gradient increases until the 6th minute and then stays at a high level of hydrophobicity. It means at the beginning of the run it’s low hydrophobic and then it’s high hydrophobic. 
+
+- Describe the MS conditions
 
 **Data analysis
 
@@ -112,17 +118,6 @@ Molecular Networking and Spectral Library Search
 A molecular network was created with the Feature-Based Molecular Networking (FBMN) workflow (Nothias L-F, Petras D, Schmid R et al. Nature Methods 17, 905–908 (2020)) on GNPS (https://gnps.ucsd.edu, Wang M et al. Nat. Biotech. 2016). The mass spectrometry data were first processed with MZMINE2 (cite accordingly, see below in the Citations section) and the results were exported to GNPS for FBMN analysis. The precursor ion mass tolerance was set to 0.02 Da and the MS/MS fragment ion tolerance to 0.02 Da. A molecular network was then created where edges were filtered to have a cosine score above 0.7 and more than 6 matched peaks. Further, edges between two nodes were kept in the network if and only if each of the nodes appeared in each others respective top 10 most similar nodes. Finally, the maximum size of a molecular family was set to 100, and the lowest scoring edges were removed from molecular families until the molecular family size was below this threshold. The spectra in the network were then searched against GNPS spectral libraries (Cite Wang M, et al. Nature Biotech. 2016 and Horai, H. et al. J. Mass Spectrom. 45, 703-714 2010). The library spectra were filtered in the same manner as the input data. All matches kept between network spectra and library spectra were required to have a score above 0.7 and at least 6 matched peaks. The DEREPLICATOR was used to annotate MS/MS spectra (Mohimani, H. et al. Nat. Commun. 9, 4035 (2018)). The molecular networks were visualised using Cytoscape software (Shannon, P. et al. Genome Res. 13, 2498-2504 (2003)).
 Data Deposition and Job Accessibility
 The mass spectrometry data were deposited on public repository (provide the deposition accession number), such as MassIVE or MetaboLights. The molecular networking job can be publicly accessed at https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a (we recommend sharing this link in your manuscript).
-
-
-
-### Sample preparation
-
-- Describe your sample preparation
-
-### LCMS Analysis
-
-- Describe the LC conditions
-- Describe the MS conditions
 
 ### Data treatment
 
@@ -163,14 +158,14 @@ http://doi.org/10.1098/rsta.2015.0370
 [^5]: Walther TC, Mann M. Mass spectrometry-based proteomics in cell biology. J Cell Biol. 2010 Aug 23;190(4):491-500. 
 https://doi.org/10.1083/jcb.201004052
 
-[^6]
+[^6]:
 
-[^7]
+[^7]:
 
 [^8]: Rose Jeffrey P., Kriebel Ricardo, Kahan Larissa, DiNicola Alexa, GonzÃ¡lez-Gallegos JesÃºs G., Celep Ferhat, Lemmon Emily M., Lemmon Alan R., Sytsma Kenneth J. & Drew Bryan T. (2021). Sage Insights Into the Phylogeny of Salvia: Dealing With Sources of Discordance Within and Across Genomes, Frontiers in Plant Science, Vol..12	
 https://doi.org/10.3389/fpls.2021.767478   
 
-[^9]
+[^9]:
 
 [^10]: Etat de Fribourg, Energy, agriculture et environnement: Degrés-jours et température moyenne, relevés hebdomadaires, website visited on 27 April 2022 
 https://www.fr.ch/energie-agriculture-et-environnement/energie/degres-jours-et-temperature-moyenne-releves-hebdomadaires
