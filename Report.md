@@ -12,7 +12,7 @@ Group C
 
 ## Introduction
 
-***
+*** Instruction ***
 Some words on the backgorund of your projects.
 Which plants did you select and why ?
 ***
