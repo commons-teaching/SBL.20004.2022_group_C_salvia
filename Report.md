@@ -34,11 +34,14 @@ The dry lab part corresponds to data analysed. … [^6] [^7]
 
 Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 different species. They represent 3 clades subgenus (Glutinaria, Salvia and Sclarea) of the 11 commonly accepted. Heterosphae is not clearly defined as a clade but its heritage differs as a result of geographical events. A genomic study using next-generation sequencing on which we base our comparison, defined Heterosphae as a clade [^8]. To simplify and do easier comparisons we will use the same nomenclature. 
 
-**Clades:
+*Clades:*
 
 Glutinaria:     S. Miltiorrhiza, S. Nubicola, S. Przewalskii
 Heterospheae:   S. Scabra
 Salvia:         S. Officinialis (3 different strains), S. Interrupta
+
+![Salvia](https://user-images.githubusercontent.com/103578333/169113739-54abebca-50f4-439a-b167-deac24c03c03.png)
+
 Sclarea:        S. Argentae, S. Candidissima, S. Palastina, S. Sclarea
 
 ![image](https://user-images.githubusercontent.com/103578333/169103910-539f0304-f160-44e4-9edf-290dc48746a4.png)
