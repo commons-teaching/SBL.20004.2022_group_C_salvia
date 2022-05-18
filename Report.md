@@ -30,7 +30,7 @@ At this point the harvest strategy is defined and the wet lab part starts. The s
 After extraction and before MS-analysis an additional step of separation is executed: a liquid chromatography (LC). Briefly explained, metabolites pass through a solid column driven by a mobile phase. This leads to an elution at different speeds based on their affinity properties with the solid column and the mobile phase. At the end of the column molecules come through with a specific retention time according to their electronic properties [^4]. 
 The final step of the wet lab part strategy is the MS. This technique has opened up the perspectives of understanding the global molecular cell dynamics and is commonly used in proteomic and metabolomic research. These studies are closely related since many metabolite’s transformations are induced by enzymes which are proteins.
 
-The machine is composed of three elements: an ion source, mass analyser and detector. The first element of the MS performs an electrospray ionisation. It means that the ionized analytes are sprayed through a needle with high electrical potential before entering in the analyser chamber. Time of flight analyzer (TOF) was used in this study. It correlate time of flight to mass. It determines the m/z ratio [^5].
+The machine is composed of three elements: an ion source, mass analyser and detector. The first element of the MS performs an electrospray ionisation. It means that the ionized analytes are sprayed through a needle with high electrical potential before entering in the analyser chamber. The instrument used is a Time of flight analyzer (TOF). It correlates time of flight to mass and allows to caracterized molecules based on the m/z ratio [^5]. Then database search allows to identify the corresponding molecules. 
 
 The dry lab part corresponds to data analysed. … [^6] [^7]
 
@@ -99,7 +99,7 @@ Material :
 
 - Describe your sample preparation
 
-This step requires the following material and tasks. 
+To prepare samples, we used the following material and proceeded as mentionned below. 
 
 Material :
 - Tweezers
@@ -135,6 +135,8 @@ The column is heated in order to reduce the viscosity of the running phase. It r
 
 - Describe the software and parameters used.
 
+#### GNPS (Global Natural Products Social Molecular Networking)
+
 Raw  data is on a switchdrive [^12]. raw data files extension is converted in .mzML by proteowizard software [^13] and then processed with MzMine 2.53 software [^14]. It allows us to filter pics and identify for example possible contaminants such as environmental pollution or plastic coming from lab furniture. Pics are centroiding and then isotopes are grouped. Then clean data is loaded on filezilla to have common access on the internet [^15]. From filezilla data is then loaded on GNPS (Global Natural Products Social Molecular Networking) [^16]. We also used another software named cytoscape to visualise molecular networks.
 
 The following setting were used:
@@ -142,6 +144,11 @@ Molecular Networking and Spectral Library Search
 A molecular network was created with the Feature-Based Molecular Networking (FBMN) workflow (Nothias L-F, Petras D, Schmid R et al. Nature Methods 17, 905–908 (2020)) on GNPS (https://gnps.ucsd.edu, Wang M et al. Nat. Biotech. 2016). The mass spectrometry data were first processed with MZMINE2 (cite accordingly, see below in the Citations section) and the results were exported to GNPS for FBMN analysis. The precursor ion mass tolerance was set to 0.02 Da and the MS/MS fragment ion tolerance to 0.02 Da. A molecular network was then created where edges were filtered to have a cosine score above 0.7 and more than 6 matched peaks. Further, edges between two nodes were kept in the network if and only if each of the nodes appeared in each others respective top 10 most similar nodes. Finally, the maximum size of a molecular family was set to 100, and the lowest scoring edges were removed from molecular families until the molecular family size was below this threshold. The spectra in the network were then searched against GNPS spectral libraries (Cite Wang M, et al. Nature Biotech. 2016 and Horai, H. et al. J. Mass Spectrom. 45, 703-714 2010). The library spectra were filtered in the same manner as the input data. All matches kept between network spectra and library spectra were required to have a score above 0.7 and at least 6 matched peaks. The DEREPLICATOR was used to annotate MS/MS spectra (Mohimani, H. et al. Nat. Commun. 9, 4035 (2018)). The molecular networks were visualised using Cytoscape software (Shannon, P. et al. Genome Res. 13, 2498-2504 (2003)).
 Data Deposition and Job Accessibility
 The mass spectrometry data were deposited on public repository (provide the deposition accession number), such as MassIVE or MetaboLights. The molecular networking job can be publicly accessed at https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a (we recommend sharing this link in your manuscript).
+
+#### Cytoscape
+
+***add things***
+
 
 ## Results
 
