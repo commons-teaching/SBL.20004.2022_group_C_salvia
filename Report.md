@@ -12,8 +12,10 @@ Group C
 
 ## Introduction
 
+***
 Some words on the backgorund of your projects.
 Which plants did you select and why ?
+***
 
 The aim of this report is to study the metabolome of several Salvia strains cultivated in the botanical garden of the University of Fribourg. The ambition is to reconstruct a phylogenetic tree based on the metabolome’s analysis and compare it to databases and similar studies. Data collected will contribute to the molecular cartography of the botanical garden. This project is led by Dr. Emmanuel Defossez and Dr. Pierre-Marie Allard [^1]. 
 
@@ -49,8 +51,6 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 
 ![Clade Salvia](https://user-images.githubusercontent.com/103578333/169148133-80c1a659-db9d-4324-b917-2b1bf742079c.png)
 
-![image](https://user-images.githubusercontent.com/103578333/169149633-c7ea0e51-2533-40b7-b680-37df768e71ad.png)
-
 
 #### 4. Sclarea:   
 
@@ -67,6 +67,7 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 
 ### Sample collection
 
+***
 - Where we the plants collected ? 
 - Which species were collected ? 
 - Link to the iNaturalist entries of your species.
@@ -77,10 +78,15 @@ Apply eventual filters (fo rexample by username)
 Save the csv and upload to github.
 
 Example see [table X](https://github.com/commons-teaching/SBL.20004.2022/blob/main/data/observations-238383.csv) 
-*...add things*
+***
 
 On April 13, 2022 14 leaves of plants were collected in the botanical garden of Fribourg and directly frozen in liquid nitrogen. Then samples were dried for 24 hours and stored at -80°C. 
 It was a sunny day (average temperature 15.8°C in Fribourg [^10]). Plants observations were loaded with their geo-localisation on the INaturalist website (DBGI project) [^11].
+
+
+*...add things*
+
+
 
 Material :
 *-Smartphone (take picture and load them with the application INaturalist)
