@@ -38,8 +38,7 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 
 #### 1.  Glutinaria:
 
-![Clade Glutinaria](https://user-images.githubusercontent.com/103578333/169115651-2792f1c0-b83a-4c2b-b026-b4dbf15c1e5d.png)
-![image](https://user-images.githubusercontent.com/103578333/169149050-c9872802-53aa-484a-8532-9ade79ffd77e.png)
+![Clade Glutinaria](https://user-images.githubusercontent.com/103578333/169149050-c9872802-53aa-484a-8532-9ade79ffd77e.png)
 
 
 #### 2. Heterospheae:
