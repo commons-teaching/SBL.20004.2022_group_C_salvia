@@ -39,21 +39,34 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 #### 1.  Glutinaria:
 
 ![Clade Glutinaria](https://user-images.githubusercontent.com/103578333/169115651-2792f1c0-b83a-4c2b-b026-b4dbf15c1e5d.png)
+![image](https://user-images.githubusercontent.com/103578333/169149050-c9872802-53aa-484a-8532-9ade79ffd77e.png)
+
 
 #### 2. Heterospheae:
 
 ![Clade Heterospheae](https://user-images.githubusercontent.com/103578333/169116884-31b364e5-465f-43bf-bc13-29f0d04ee116.png)
 
+![image](https://user-images.githubusercontent.com/103578333/169148708-f59a9f4e-f9bd-43a9-92db-c1a2f9937b34.png)
 
 #### 3. Salvia:     
 
 ![Clade Salvia](https://user-images.githubusercontent.com/103578333/169113739-54abebca-50f4-439a-b167-deac24c03c03.png)
+![image](https://user-images.githubusercontent.com/103578333/169148133-80c1a659-db9d-4324-b917-2b1bf742079c.png)
+
 
 #### 4. Sclarea:   
 
 ![Clade Sclarea](https://user-images.githubusercontent.com/103578333/169117817-67888ce6-d1e7-425b-83eb-c1e4c952ec06.png)
 
+![image](https://user-images.githubusercontent.com/103578333/169148462-a52c2976-12aa-49e9-b19a-be57b769ec4c.png)
+
+![image](https://user-images.githubusercontent.com/103578333/169149633-c7ea0e51-2533-40b7-b680-37df768e71ad.png)
+
+
+
 #### ![Salvia Candelabrum](https://user-images.githubusercontent.com/103578333/169118888-7eff5fe1-caf1-4ffa-9020-75e190c8cc4d.png)
+
+![image](https://user-images.githubusercontent.com/103578333/169149876-5933a88f-a539-476c-aefc-121d39db55ca.png)
 
 
 ## Material & Methods
