@@ -137,7 +137,7 @@ The column is heated in order to reduce the viscosity of the running phase. It r
 
 #### GNPS (Global Natural Products Social Molecular Networking)
 
-Raw  data is on a switchdrive [^12]. raw data files extension is converted in .mzML by proteowizard software [^13] and then processed with MzMine 2.53 software [^14]. It allows us to filter pics and identify for example possible contaminants such as environmental pollution or plastic coming from lab furniture. Pics are centroiding and then isotopes are grouped. Then clean data is loaded on filezilla to have common access on the internet [^15]. From filezilla data is then loaded on GNPS (Global Natural Products Social Molecular Networking) [^16]. We also used another software named cytoscape to visualise molecular networks.
+Raw  data is on a switchdrive [^12]. Raw data files extension is converted in .mzML by proteowizard software [^13] and then processed with MzMine 2.53 software [^14]. It allows us to filter pics and identify for example possible contaminants such as environmental pollution or plastic coming from lab furniture. Pics are centroiding and then isotopes are grouped. Then clean data is loaded on filezilla to have common access on the internet [^15]. From filezilla data is loaded on GNPS (Global Natural Products Social Molecular Networking) [^16]. We also used another software named cytoscape to visualise molecular networks [^17].
 
 The following setting were used:
 Molecular Networking and Spectral Library Search
@@ -208,7 +208,7 @@ DBGI project https://www.inaturalist.org/projects/digital-botanical-gardens-init
 
 [^15]: Filezilla https://filezilla-project.org/download.php?type=client
 
-[^16]: Cytoscape
+[^16]: GNPS https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp
 
 [^17]: Cytoscape https://cytoscape.org/
 
