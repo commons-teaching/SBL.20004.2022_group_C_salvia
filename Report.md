@@ -142,6 +142,9 @@ Screenshots of your molecular network and of some clusters of interest.
 Link to the GNPS job.
 Link to the GNPS identification table.
 
+![Molecular Network](https://user-images.githubusercontent.com/103578333/169107814-5c613ec1-5651-46ab-9ef1-e9e1d2b6b4d6.png)
+
+
 ## Conclusion
 
 Some conclusion that you could get out of this preliminary study.
@@ -164,26 +167,26 @@ https://doi.org/10.1083/jcb.201004052
 
 [^7]
 
-[^8] Rose Jeffrey P., Kriebel Ricardo, Kahan Larissa, DiNicola Alexa, GonzÃ¡lez-Gallegos JesÃºs G., Celep Ferhat, Lemmon Emily M., Lemmon Alan R., Sytsma Kenneth J. & Drew Bryan T. (2021). Sage Insights Into the Phylogeny of Salvia: Dealing With Sources of Discordance Within and Across Genomes, Frontiers in Plant Science, Vol..12	
+[^8]: Rose Jeffrey P., Kriebel Ricardo, Kahan Larissa, DiNicola Alexa, GonzÃ¡lez-Gallegos JesÃºs G., Celep Ferhat, Lemmon Emily M., Lemmon Alan R., Sytsma Kenneth J. & Drew Bryan T. (2021). Sage Insights Into the Phylogeny of Salvia: Dealing With Sources of Discordance Within and Across Genomes, Frontiers in Plant Science, Vol..12	
 https://doi.org/10.3389/fpls.2021.767478   
 
 [^9]
 
-[^10] Etat de Fribourg, Energy, agriculture et environnement: Degrés-jours et température moyenne, relevés hebdomadaires, website visited on 27 April 2022 
+[^10]: Etat de Fribourg, Energy, agriculture et environnement: Degrés-jours et température moyenne, relevés hebdomadaires, website visited on 27 April 2022 
 https://www.fr.ch/energie-agriculture-et-environnement/energie/degres-jours-et-temperature-moyenne-releves-hebdomadaires
 
-[^11] INaturalist, website visited on 13 April 2022
+[^11]: INaturalist, website visited on 13 April 2022
 DBGI project https://www.inaturalist.org/projects/digital-botanical-gardens-initiative
 
-[^12] Metabolomic data https://drive.switch.ch/index.php/s/U6Vezrq5mDVzSld
+[^12]: Metabolomic data https://drive.switch.ch/index.php/s/U6Vezrq5mDVzSld
 
-[^13] Proteowizard https://proteowizard.sourceforge.io/
+[^13]: Proteowizard https://proteowizard.sourceforge.io/
 
-[^14] MzMine 2.53 https://github.com/mzmine/mzmine2/releases
+[^14]: MzMine 2.53 https://github.com/mzmine/mzmine2/releases
 
-[^15] Filezilla https://filezilla-project.org/download.php?type=client
+[^15]: Filezilla https://filezilla-project.org/download.php?type=client
 
-[^16] Cytoscape https://cytoscape.org/
+[^16]: Cytoscape https://cytoscape.org/
 
 Note that you can make a footnot like this [^1]
 
