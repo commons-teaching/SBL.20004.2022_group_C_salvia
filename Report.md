@@ -12,10 +12,10 @@ Group C
 
 ## Introduction
 
-*** Instruction ***
+
 Some words on the backgorund of your projects.
 Which plants did you select and why ?
-***
+
 
 The aim of this report is to study the metabolome of several Salvia strains cultivated in the botanical garden of the University of Fribourg. The ambition is to reconstruct a phylogenetic tree based on the metabolome’s analysis and compare it to databases and similar studies. Data collected will contribute to the molecular cartography of the botanical garden. This project is led by Dr. Emmanuel Defossez and Dr. Pierre-Marie Allard [^1]. 
 
@@ -27,7 +27,7 @@ Interesting plant metabolites have already been measured by MS and listed[^2]. B
 
 At this point the harvest strategy is defined and the wet lab part starts. The solvent used for the extraction is also a delicate concern because it can lead to a metabolit selection before MS-analysis. The extraction solution used in this study is MeOH/H2O/formic acid (80:20:0.1). Hydrophilic compounds were extracted with polar organic solvent such as methanol because of its affinity for water molecules that leads to a hydrophilic molecules rearrangement. A low concentration of acid such as formic acid helps the ionisation of molecules and it implies that analytes become more basic than solvent [^3].  As explained, the extraction step modifies our sample and proceeds to a metabolites sorting during extraction steps. So in this study the harvest and extraction steps were performed at the same time and  in the same way for all samples to reduce variability between samples. 
 
-After extraction and before MS-analysis an additional step of separation is executed: a high performance liquid chromatography (HPLC). Briefly explained, metabolites pass through a solid column driven by a mobile phase. This leads to an elution at different speeds based on their affinity properties with the solid column and the mobile phase. At the end of the column molecules come through with a specific retention time according to their electronic properties [^4]. 
+After extraction and before MS-analysis an additional step of separation is executed: a liquid chromatography (LC). Briefly explained, metabolites pass through a solid column driven by a mobile phase. This leads to an elution at different speeds based on their affinity properties with the solid column and the mobile phase. At the end of the column molecules come through with a specific retention time according to their electronic properties [^4]. 
 The final step of the wet lab part strategy is the MS. This technique has opened up the perspectives of understanding the global molecular cell dynamics and is commonly used in proteomic and metabolomic research. These studies are closely related since many metabolite’s transformations are induced by enzymes which are proteins.
 
 The machine is composed of three elements: an ion source, mass analyser and detector. The first element of the MS performs an electrospray ionisation. It means that the ionized analytes are sprayed through a needle with high electrical potential before entering in the analyser chamber. Time of flight analyzer (TOF) was used in this study. It correlate time of flight to mass. It determines the m/z ratio [^5].
@@ -89,7 +89,7 @@ It was a sunny day (average temperature 15.8°C in Fribourg [^10]). Plants obser
 
 
 Material :
-*-Smartphone (take picture and load them with the application INaturalist)
+-Smartphone (take picture and load them with the application INaturalist)
 -Knife and tweezers (collect more or less one leave of each plants: ≥50g dry sample per strain)
 -14x 15mL Eppendorf tubes
 -Liquid nitrogen in expanded polystyrene box or in its suitable bucket
@@ -102,7 +102,7 @@ Material :
 This step requires the following material and tasks. 
 
 Material :
-*-Tweezers
+-Tweezers
 -Analytical weight-scale 
 -15x 1.5mL Eppendorf tubes and 15x glass vials with their caps 
 -Liquid nitrogen in its bucket 
@@ -111,7 +111,7 @@ Material :
 -Spinner for 1.5mL Eppendorf tube
 
 Protocol :
-*Weigh 50g  ± 0.5g in a 1.5mL Eppendorf tube (use gloves, glasses and lab coat)
+Weigh 50g  ± 0.5g in a 1.5mL Eppendorf tube (use gloves, glasses and lab coat)
 Add 3 iron beads per tubes and add one tube with 3 beads (blank)
 Disrupt cells (Program: 30Hz, 3min) at room temperature
 Add 170µL of extraction solution MeOH/H2O/formic acid (80:20:0.1) in each sample tubes and blank
