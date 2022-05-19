@@ -92,6 +92,8 @@ Example see [table X](https://github.com/commons-teaching/SBL.20004.2022/blob/ma
 On April 13, 2022 14 leaves of plants were collected in the botanical garden of Fribourg and directly frozen in liquid nitrogen. Then samples were dried for 24 hours and stored at -80°C. 
 It was a sunny day (average temperature 15.8°C in Fribourg [^10]). Plants observations were loaded with their geo-localisation on the INaturalist website (DBGI project) [^11].
 
+[Salvia entries](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/Group%20C%20-%20Salvia%20-%20DBGI%20project%20on%20Inaturalist.csv)
+
 
 *...add things* Inaturalise plants lists
 
