@@ -142,7 +142,7 @@ We don’t wash the LC -column between samples and don’t add blanks between th
 
 #### GNPS (Global Natural Products Social Molecular Networking)
 
-Raw  data is on a switchdrive [^12]. Raw data files extension is converted in .mzML by proteowizard software [^13] and then processed with MzMine 2.53 software [^14]. It allows us to filter pics and identify for example possible contaminants such as environmental pollution or plastic coming from lab furniture. Pics are centroiding and then isotopes are grouped. Then clean data is loaded on filezilla to have common access on the internet [^15]. From filezilla data is loaded on GNPS (Global Natural Products Social Molecular Networking) [^16]. We also used another software named cytoscape to visualise molecular networks [^17].
+Raw  data is on a switchdrive [^12]. Raw data files extension is converted in .mzML by proteowizard software [^13] and then processed with MzMine 2.53 software [^14]. It allows us to filter pics and identify for example possible contaminants such as environmental pollution or plastic coming from lab furniture. Pics are centroiding and then isotopes are grouped. Then clean data is loaded on filezilla to have common access on the internet [^15]. From filezilla data is loaded on GNPS (Global Natural Products Social Molecular Networking) with metadata files and ... another files that I don't remember the name [^16]. We also used another software named cytoscape to visualise molecular networks [^17].
 
 The following setting were used:
 Molecular Networking and Spectral Library Search
