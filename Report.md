@@ -21,7 +21,7 @@ The aim of this report is to study the metabolome of several Salvia strains cult
 
 The study of related plants’s metabolome approaches phylogeny from an innovative perspective. It opens up investigation tracks for understanding the diversity of species we encounter in nature. Mass spectrometry(MS) -based plant metabolomic should be a method of analyse as efficiant as sequencing for phylogenetic studies. It's also what we want to experiment with our project. 
 
-## Salvia
+### Salvia
 
 Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 different species. They represent 3 clades subgenus (Glutinaria, Salvia and Sclarea) of the 11 commonly accepted. Heterosphae is not clearly defined as a clade but its heritage differs as a result of geographical events. A genomic study using next-generation sequencing on which we base our comparison, defined Heterosphae as a clade [^8]. To simplify and do easier comparisons we will use the same nomenclature. 
 
