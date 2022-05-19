@@ -21,25 +21,7 @@ The aim of this report is to study the metabolome of several Salvia strains cult
 
 The study of related plants’s metabolome approaches phylogeny from an innovative perspective. It opens up investigation tracks for understanding the diversity of species we encounter in nature. Mass spectrometry(MS) -based plant metabolomic should be a method of analyse as efficiant as sequencing for phylogenetic studies. It's also what we want to experiment with our project. 
 
-### Sample collection
-
-Firstly it’s important to define which parameters can affect results and considers some plant specific aspects. Plants are sessile and cannot escape to their environment. They must adjust their metabolism to both abiotics and biotic stress. Metabolites produced may therefore be likely different in the same plant living in an inhospitable environment than in a hospitable environment. This hypothesis raises the impact of the plant metabolism state that can interfere in the resolution of our biological question. In our study we bypass this potential source of error. Salvia sampling was made in the same area of the botanical garden. It means that we assume that plants have been subjected to identical stress. Of course, this does not decrease the amount of metabolites potentially suitable to detect phylogenetic links between species but it reduce variability between samples. A second interesting aspect to consider is the spatio-temporal distribution of metabolites in the plants. This underlines the importance of sampling points on the plant. For our experiment, we systematically sampled  leaves. It would also have been interesting to take the roots of each plant but for a concern of preservation of our study specimen we did not collect the roots.  Plant metabolites have already been measured by MS and listed [^2]. We will use this list and compare with our results. 
-
-### Sample preparation
-
-At this step  of experimental design the harvest strategy is defined and the wet lab part starts. The solvent used for the extraction is also a delicate concern because it can lead to a metabolit selection before MS-analysis and a sample contamination source. The extraction solution used in this study is MeOH/H2O/formic acid (80:20:0.1). Hydrophilic compounds were extracted with polar organic solvent such as methanol because of its affinity for water molecules that leads to a hydrophilic molecules rearrangement. A low concentration of acid such as formic acid helps the ionisation of molecules and it implies that analytes become more basic than solvent [^3].  As explained, the extraction step modifies our sample and proceeds to a metabolites sorting during extraction steps. So in this study the harvest and extraction steps were performed at the same time and  in the same way for all samples to reduce variability between samples. 
-
-### Sample analysis
-
-After extraction and before MS-analysis an additional step of separation is executed: a liquid chromatography (LC). Briefly explained, metabolites pass through a solid column driven by a mobile phase. This leads to an elution at different speeds based on their affinity properties with the solid column and the mobile phase. At the end of the column molecules come through with a specific retention time according to their electronic properties [^4]. 
-The final step of the wet lab part strategy is the MS. This technique has opened up the perspectives of understanding the global molecular cell dynamics and is commonly used in proteomic and metabolomic research. These studies are closely related since many metabolite’s transformations are induced by enzymes which are proteins.
-
-Basic MS -instruments are composed of three elements: an ion source, mass analyser and detector. The first element performs an electrospray ionisation. It means that the ionized analytes are sprayed through a needle with high electrical potential before entering in the analyser chamber. There is different mass analysers on the market. We used a Time of flight analyzer (TOF) for our study. It correlates time of flight to mass and allows to characterize molecules based on the m/z ratio [^5]. 
-The output is a MS -spectra representing the abundance of each molecules. 
-
-### Data analysis
-
-The dry lab part corresponds to data analysed. Using database and several bioinformatic tools it leads to identify molecules… [^6] [^7]
+## Salvia
 
 Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 different species. They represent 3 clades subgenus (Glutinaria, Salvia and Sclarea) of the 11 commonly accepted. Heterosphae is not clearly defined as a clade but its heritage differs as a result of geographical events. A genomic study using next-generation sequencing on which we base our comparison, defined Heterosphae as a clade [^8]. To simplify and do easier comparisons we will use the same nomenclature. 
 
@@ -69,6 +51,26 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 
 ![Salvia Verticillata](https://user-images.githubusercontent.com/103578333/169152780-40444591-254b-4031-8d3f-d0f57c67624e.png)
 
+
+### Sample collection
+
+Firstly it’s important to define which parameters can affect results and considers some plant specific aspects. Plants are sessile and cannot escape to their environment. They must adjust their metabolism to both abiotics and biotic stress. Metabolites produced may therefore be likely different in the same plant living in an inhospitable environment than in a hospitable environment. This hypothesis raises the impact of the plant metabolism state that can interfere in the resolution of our biological question. In our study we bypass this potential source of error. Salvia sampling was made in the same area of the botanical garden. It means that we assume that plants have been subjected to identical stress. Of course, this does not decrease the amount of metabolites potentially suitable to detect phylogenetic links between species but it reduce variability between samples. A second interesting aspect to consider is the spatio-temporal distribution of metabolites in the plants. This underlines the importance of sampling points on the plant. For our experiment, we systematically sampled  leaves. It would also have been interesting to take the roots of each plant but for a concern of preservation of our study specimen we did not collect the roots.  Plant metabolites have already been measured by MS and listed [^2]. We will use this list and compare with our results. 
+
+### Sample preparation
+
+At this step  of experimental design the harvest strategy is defined and the wet lab part starts. The solvent used for the extraction is also a delicate concern because it can lead to a metabolit selection before MS-analysis and a sample contamination source. The extraction solution used in this study is MeOH/H2O/formic acid (80:20:0.1). Hydrophilic compounds were extracted with polar organic solvent such as methanol because of its affinity for water molecules that leads to a hydrophilic molecules rearrangement. A low concentration of acid such as formic acid helps the ionisation of molecules and it implies that analytes become more basic than solvent [^3].  As explained, the extraction step modifies our sample and proceeds to a metabolites sorting during extraction steps. So in this study the harvest and extraction steps were performed at the same time and  in the same way for all samples to reduce variability between samples. 
+
+### Sample analysis
+
+After extraction and before MS-analysis an additional step of separation is executed: a liquid chromatography (LC). Briefly explained, metabolites pass through a solid column driven by a mobile phase. This leads to an elution at different speeds based on their affinity properties with the solid column and the mobile phase. At the end of the column molecules come through with a specific retention time according to their electronic properties [^4]. 
+The final step of the wet lab part strategy is the MS. This technique has opened up the perspectives of understanding the global molecular cell dynamics and is commonly used in proteomic and metabolomic research. These studies are closely related since many metabolite’s transformations are induced by enzymes which are proteins.
+
+Basic MS -instruments are composed of three elements: an ion source, mass analyser and detector. The first element performs an electrospray ionisation. It means that the ionized analytes are sprayed through a needle with high electrical potential before entering in the analyser chamber. There is different mass analysers on the market. We used a Time of flight analyzer (TOF) for our study. It correlates time of flight to mass and allows to characterize molecules based on the m/z ratio [^5]. 
+The output is a MS -spectra representing the abundance of each molecules. 
+
+### Data analysis
+
+The dry lab part corresponds to data analysed. Using database and several bioinformatic tools it leads to identify molecules… [^6] [^7]
 
 ## Material & Methods
 
