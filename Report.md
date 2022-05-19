@@ -135,6 +135,8 @@ We don’t wash the LC -column between samples and don’t add blanks between th
 - Describe the MS conditions
 
 *...add things* (Q-Exactive)
+The conditions set for the MS are accessible on the following link: https://github.com/commons-teaching/SBL.20004.2022/blob/main/ms_conditions.txt. 
+
 
 ### Data treatment
 
