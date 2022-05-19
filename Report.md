@@ -25,7 +25,7 @@ The study of related plants’s metabolome approaches phylogeny from an innovati
 
 Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 different species. They represent 3 clades subgenus (Glutinaria, Salvia and Sclarea) of the 11 commonly accepted. Heterosphae is not clearly defined as a clade but its heritage differs as a result of geographical events. A genomic study using next-generation sequencing on which we base our comparison, defined Heterosphae as a clade [^2]. To simplify and do easier comparisons we will use the same nomenclature. 
 
-#### Clades:
+#### Clades studied:
 
 ##### 1.  Glutinaria:
 
@@ -45,7 +45,7 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 
 ![Clade Sclarea](https://user-images.githubusercontent.com/103578333/169152368-3339366b-4021-40a1-8408-57b84b92f232.png)
 
-##### 5. ND:
+##### 5. Non-Define in the study used as reference:
 
 ![Salvia Candelabrum](https://user-images.githubusercontent.com/103578333/169149876-5933a88f-a539-476c-aefc-121d39db55ca.png)
 
@@ -54,7 +54,7 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 
 ### Sample collection
 
-Firstly it’s important to define which parameters can affect results and considers some plant specific aspects. Plants are sessile and cannot escape to their environment. They must adjust their metabolism to both abiotics and biotic stress. Metabolites produced may therefore be likely different in the same plant living in an inhospitable environment than in a hospitable environment. This hypothesis raises the impact of the plant metabolism state that can interfere in the resolution of our biological question. In our study we bypass this potential source of error. Salvia sampling was made in the same area of the botanical garden. It means that we assume that plants have been subjected to identical stress. Of course, this does not decrease the amount of metabolites potentially suitable to detect phylogenetic links between species but it reduce variability between samples. A second interesting aspect to consider is the spatio-temporal distribution of metabolites in the plants. This underlines the importance of sampling points on the plant. For our experiment, we systematically sampled  leaves. It would also have been interesting to take the roots of each plant but for a concern of preservation of our study specimen we did not collect the roots.  Plant metabolites have already been measured by MS and listed in another study [^3]. We will use this list and compare with our results. 
+Firstly it’s important to consider which parameters can affect results and considers some plant specific aspects. Plants are sessile and cannot escape to their environment. They must adjust their metabolism to both abiotics and biotic stress. Metabolites produced may therefore be likely different in the same plant living in an inhospitable environment than in a hospitable environment. This hypothesis raises the impact of the plant metabolism state that can interfere in the resolution of our biological question. In our study we bypass this potential source of error. Salvia sampling was made in the same area of the botanical garden. It means that we assume that plants have been subjected to identical stress. Of course, this does not decrease the amount of metabolites potentially suitable to detect phylogenetic links between species but it reduce variability between samples. A second interesting aspect to consider is the spatio-temporal distribution of metabolites in the plants. This underlines the importance of sampling points on the plant. For our experiment, we systematically sampled  leaves. It would also have been interesting to take the roots of each plant but for a concern of preservation of our study specimen we did not collect the roots.  Plant metabolites have already been measured by MS and listed in another study [^3]. We will use this list and compare with our results. 
 
 ### Sample preparation
 
