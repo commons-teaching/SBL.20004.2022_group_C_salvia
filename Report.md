@@ -23,7 +23,7 @@ The study of related plants’s metabolome approaches phylogeny from an innovati
 
 ### Salvia
 
-Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 different species. They represent 3 clades subgenus (Glutinaria, Salvia and Sclarea) of the 11 commonly accepted. Heterosphae is not clearly defined as a clade but its heritage differs as a result of geographical events. A genomic study using next-generation sequencing on which we base our comparison, defined Heterosphae as a clade [^2]. To simplify and do easier comparisons we will use the same nomenclature. 
+Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 different species. They represent 3 clades subgenus (Glutinaria, Salvia and Sclarea) of the 11 commonly accepted (1. Audibertia, 2. Calosphace, 3. Dorystaechas, 4. Glutinaria, 5. Heterosphace, 6. Meriandra, 7. Peroskia, 8. Rosmarinus, 9. Salvia, 10. Sclarea, 11. Zhumeria). Heterosphae is not clearly defined as a clade but its heritage differs as a result of geographical events. A genomic study using next-generation sequencing on which we base our comparison, defined Heterosphae as a clade [^2]. To simplify and do easier comparisons we will use the same nomenclature. 
 
 #### Clades studied:
 
