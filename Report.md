@@ -36,7 +36,6 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 
 ![Clade Heterospheae](https://user-images.githubusercontent.com/103578333/169148462-a52c2976-12aa-49e9-b19a-be57b769ec4c.png)
 
-Non-Defined in the study used as reference
 ![Salvia Verticillata](https://user-images.githubusercontent.com/103578333/169152780-40444591-254b-4031-8d3f-d0f57c67624e.png)
 
 ##### 3. Salvia:     
@@ -48,7 +47,7 @@ Non-Defined in the study used as reference
 
 ![Clade Sclarea](https://user-images.githubusercontent.com/103578333/169152368-3339366b-4021-40a1-8408-57b84b92f232.png)
 
-##### 5. Plants without clade (Non-Defined (ND) in the study used as reference)
+##### 5. ???
 
 ![Salvia Candelabrum](https://user-images.githubusercontent.com/103578333/169149876-5933a88f-a539-476c-aefc-121d39db55ca.png)
 
