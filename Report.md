@@ -83,7 +83,9 @@ The data treatment required 10 following steps [^7]:
 9. Gap filling (reanalyse raw data)
 10. Feature csv export
 
-Based of the clean data it's possible to identify moleculs with database comparison. GNPS can produce this work that can be long [^8]
+Based of the clean data it's possible to identify moleculs with database comparison. GNPS can produce this work. It takes long time. 
+
+[^8]
 
 ## Material & Methods
 
