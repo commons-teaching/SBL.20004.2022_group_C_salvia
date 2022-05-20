@@ -165,8 +165,7 @@ Raw  data is on a switchdrive [^12]. Raw data files extension is converted in .m
 3. [group_C.mgf](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C.mgf) 
 
 #### MzMine
-MzMine is a software used for the MS-data processing. A tutorial explains steps executed on our data. 
-[Tutorial](https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/)
+MzMine is a software used for the MS-data processing. A tutorial explains steps executed on our data : [Tutorial](https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/).
 
 #### GNPS (Global Natural Products Social Molecular Networking)
 
