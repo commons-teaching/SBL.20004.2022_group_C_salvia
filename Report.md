@@ -194,6 +194,8 @@ Screenshots of your molecular network and of some clusters of interest.
 Link to the GNPS job.
 Link to the GNPS identification table.
 
+![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/169606618-c7d72389-9646-4ace-a5f0-a95e26f57999.png)
+
 
 ![Global_network](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
 Purple: Salvia
