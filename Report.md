@@ -81,7 +81,7 @@ The data treatment required 10 following steps [^7]:
 7. MS row filter
 8. Isotope filter (min.n isotope peaks) and normalisation (TIC or Standard)
 9. Gap filling (reanalyse raw data)
-10. feature csv export
+10. Feature csv export
 
 Based of the clean data it's possible to identify moleculs with database comparaison. GNPS can produce this work that can be long [^8]
 
