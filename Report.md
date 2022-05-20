@@ -74,7 +74,7 @@ The dry lab has the function to organize, sort and annotate data. Depend on the 
 The data treatment required 10 following steps [^7]:
 1. Data import
 2. MS peak detection
-3. Chromatogram building (I don’t remember if we really did it)
+3. Chromatogram building
 4. Chromatogram deconvolution
 5. Isotope grouping
 6. Feature alignment
