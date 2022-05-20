@@ -69,7 +69,21 @@ The output is a MS -spectra representing the abundance of each molecules.
 
 ### Data analysis
 
-The dry lab part corresponds to data analysed. Using database and several bioinformatic tools it leads to identify molecules… [^7] [^8]
+The dry lab has the function to organize, sort and annotate data. Depend on the software used raw files has to be convert in open source format but this modification can introduce errors.
+
+The data treatment required 10 following steps [^7]:
+1. Data import
+2. MS peak detection
+3. Chromatogram building (I don’t remember if we really did it)
+4. Chromatogram deconvolution
+5. Isotope grouping
+6. Feature alignment
+7. MS row filter
+8. Isotope filter (min.n isotope peaks) and normalisation (TIC or Standard)
+9. Gap filling (reanalyse raw data)
+10. feature csv export
+
+Based of the clean data it's possible to identify moleculs with database comparaison. GNPS can produce this work that can be long [^8]
 
 ## Material & Methods
 
@@ -144,6 +158,10 @@ Raw  data is on a switchdrive [^12]. Raw data files extension is converted in .m
 1. [group_C_metadata.txt](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/GroupC_Metadata.txt) 
 2. [group_C_quant.csv](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C_quant.csv) 
 3. [group_C.mgf](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C.mgf) 
+
+#### MzMine
+MzMine is a software used for the MS-data processing. A tutorial explains steps executed on our data. 
+[Tutorial](https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/)
 
 #### GNPS (Global Natural Products Social Molecular Networking)
 
