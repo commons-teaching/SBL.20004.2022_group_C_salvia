@@ -32,9 +32,9 @@ Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 d
 ![Clade Glutinaria](https://user-images.githubusercontent.com/103578333/169149050-c9872802-53aa-484a-8532-9ade79ffd77e.png)
 
 
-##### 2. Heterospheae:
+##### 2. Heterosphace:
 
-![Clade Heterospheae](https://user-images.githubusercontent.com/103578333/169148462-a52c2976-12aa-49e9-b19a-be57b769ec4c.png)
+![Clade Heterosphace](https://user-images.githubusercontent.com/103578333/169148462-a52c2976-12aa-49e9-b19a-be57b769ec4c.png)
 
 ![Salvia Verticillata](https://user-images.githubusercontent.com/103578333/169152780-40444591-254b-4031-8d3f-d0f57c67624e.png)
 
