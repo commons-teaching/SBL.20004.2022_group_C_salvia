@@ -198,7 +198,8 @@ Link to the GNPS identification table.
 
 
 ![Global_network](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
-![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/169607079-27f8bcd7-b8c9-4839-be40-e72777fa659f.png)
+![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/169607494-2eeffabe-6642-432d-b938-2a9abdb9c448.png)
+
 Purple: Salvia
 Yellow: Heterosphacea
 Red: Sclarea
