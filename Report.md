@@ -140,7 +140,7 @@ Protocol :
 - Transfer 1mL supernatant in glass vial and screw caps
 - Store them at -80°C  
 
-### LCMS Analysis
+### LC-MS Analysis
 
 - Describe the LC conditions
 
