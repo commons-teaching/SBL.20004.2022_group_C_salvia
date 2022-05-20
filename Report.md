@@ -196,6 +196,10 @@ Link to the GNPS identification table.
 
 
 ![Global_network](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
+Purple: Salvia
+Yellow: Heterosphacea
+Red: Sclarea
+Green : Glutinaria
 
 
 ![Molecular Cluster 1](https://user-images.githubusercontent.com/103578333/169107814-5c613ec1-5651-46ab-9ef1-e9e1d2b6b4d6.png)
