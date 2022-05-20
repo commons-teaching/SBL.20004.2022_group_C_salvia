@@ -84,7 +84,7 @@ The data treatment required 10 following steps [^7]:
 10. Feature csv export
 
 Based of the clean data it's possible to identify moleculs with database comparison. GNPS can produce this work. It takes long time. 
-
+Netwrork can be build. For this purpose Cytoscape is the program used in this study. 
 [^8]
 
 ## Material & Methods
