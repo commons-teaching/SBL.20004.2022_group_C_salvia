@@ -71,7 +71,7 @@ The output is a MS -spectra representing the abundance of each molecules.
 
 The dry lab has the function to organize, sort and annotate data. Depend on the software used raw files has to be convert in open source format but this modification can introduce errors.
 
-The data treatment required 10 following steps [^7]:
+The data treatment with MzMind for example in done in 10 following steps [^7]:
 1. Data import
 2. MS peak detection
 3. Chromatogram building
@@ -83,10 +83,9 @@ The data treatment required 10 following steps [^7]:
 9. Gap filling (reanalyse raw data)
 10. Feature csv export
 
-Based of the clean data it's possible to identify moleculs with database comparison. GNPS can produce this work. It takes long time. 
+Based of the clean data it's possible to identify moleculs with database comparison. GNPS (Global Natural products Social Networking) produces this work. 
 
-Netwrork can be build too. For this purpose Cytoscape is the program used in this study. 
-[^8]
+Netwrork can be build too. For this purpose Cytoscape is the software used in this study [^8].
 
 ## Material & Methods
 
@@ -158,14 +157,14 @@ The conditions set for the MS are accessible on the following [link](https://git
 
 - Describe the software and parameters used.
 
-Raw  data is on a switchdrive [^12]. Raw data files extension is converted in .mzML by proteowizard software [^13] and then processed with MzMine 2.53 software [^14]. It allows us to filter pics and identify for example possible contaminants such as environmental pollution or plastic coming from lab furniture. Pics are centroiding and then isotopes are grouped. Then clean data is loaded on filezilla to have common access on the internet [^15]. From filezilla data is loaded on GNPS (Global Natural Products Social Molecular Networking) with metadata file [^16]. We select to perform a feature networking (advance analysis tools) to quantify molecules and reduced molecule redundancy. We also used another software named cytoscape to visualise molecular networks [^17].
+Raw  data is on a switchdrive [^12]. Raw data files extension is converted in .mzML by proteowizard software [^13] and then processed with MzMine 2.53 software [^14]. It allows us to filter pics and identify for example possible contaminants such as environmental pollution or plastic coming from lab furniture. Pics are centroiding and then isotopes are grouped. Then clean data is loaded on filezilla to have common access on the internet [^15]. From filezilla data is loaded on GNPS (Global Natural Products Social Molecular Networking) with *metadata file*, *quant.csv* and *mgf files* [^16]. We select to perform a feature networking (advance analysis tools) to quantify molecules and reduced molecule redundancy. We also used another software named cytoscape to visualise molecular networks [^17].
 
 1. [group_C_metadata.txt](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/GroupC_Metadata.txt) 
 2. [group_C_quant.csv](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C_quant.csv) 
 3. [group_C.mgf](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C.mgf) 
 
 #### MzMine
-MzMine is a software used for the MS-data processing. A tutorial explains steps executed on our data : [Tutorial](https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/).
+MzMine is a software used for the MS-data processing. A tutorial describs steps executed on our data : [Tutorial](https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/).
 
 #### GNPS (Global Natural Products Social Molecular Networking)
 
