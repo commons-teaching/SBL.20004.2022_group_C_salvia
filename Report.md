@@ -74,6 +74,9 @@ Plants observations geo-localisation are avalable on the INaturalist website (DB
 
 ![Salvia Verticillata](https://user-images.githubusercontent.com/103578333/169152780-40444591-254b-4031-8d3f-d0f57c67624e.png)
 
+![image](https://user-images.githubusercontent.com/103578333/169702091-f4a67aa5-dca6-4ab3-b42a-f43e68c9739a.png)
+
+
 ##### 3. Salvia:     
 
 ![Clade Salvia](https://user-images.githubusercontent.com/103578333/169148133-80c1a659-db9d-4324-b917-2b1bf742079c.png)
