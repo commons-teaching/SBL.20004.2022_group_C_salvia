@@ -23,7 +23,7 @@ For this reason, the choice of plants to be analysed is based on two criteria:
 - Plants samples must belong to a single plant family, whose genetic sequence and correlation has already been established and described in the literature.
 - This family must have a large number of representatives in the harvest region.
 
-Therefore we performed a MS-metabolome analysis of several Salvia strains cultivated in the botanical garden of the University of Fribourg. The aim is to reconstruct a phylogenetic tree based on the metabolome’s analysis and compare it to databases and similar studies. Data collected will contribute to the molecular cartography of the botanical garden. This project is led by Dr. Emmanuel Defossez and Dr. Pierre-Marie Allard [1]. 
+Therefore we performed a MS-metabolome analysis of several Salvia strains cultivated in the botanical garden of the University of Fribourg. The aim is to reconstruct a phylogenetic tree based on the metabolome’s analysis and compare it to databases and similar studies. Data collected will contribute to the molecular cartography of the botanical garden. This project is led by Dr. Emmanuel Defossez and Dr. Pierre-Marie Allard [^1]. 
 
 Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 different species in the 15 section of the botanical garden. They represent 3 clades subgenus (Glutinaria, Salvia and Sclarea) of the 11 commonly accepted (1. Audibertia, 2. Calosphace, 3. Dorystaechas, 4. Glutinaria, 5. Heterosphace, 6. Meriandra, 7. Peroskia, 8. Rosmarinus, 9. Salvia, 10. Sclarea, 11. Zhumeria). Heterosphae is not clearly defined as a clade but its heritage differs as a result of geographical events. A genomic study using next-generation sequencing on which we base our comparison, defined Heterosphae as a clade [^2]. To simplify and do easier comparisons we will use the same nomenclature. 
 
@@ -38,7 +38,7 @@ Depending on the type of omics-study, the sample preparation may vary, while sti
 
 The dry lab has the function to organize, sort and annotate data. Depend on the software used, raw files has to be convert in open source format but this modification can introduce errors.
 
-The data treatment required 10 following steps [^7]:
+The data treatment required 10 following steps:
 1. Data import
 2. MS peak detection
 3. Chromatogram building
@@ -58,8 +58,8 @@ Based on the clean data it's then possible to identify moleculs with database co
 
 ### Sample collection
 
-The Salvias were harvest in the 15 section of the botanical garden the 13th April 2022 at 15.8°C [^10]. We then assume that plants have been subjected to identical stress reducing the variability between samples. The leaves of each plant were harvest and directly stored in liquide nitrogen to prevent any biochemical-stress reaction that can lead to misleading results. After 24h of lyophilization, the samples were stored at -80°C.
-Plants observations geo-localisation are avalable on the INaturalist website (DBGI project) [^11].
+The Salvias were harvest in the 15 section of the botanical garden the 13th April 2022 at 15.8°C [^3]. We then assume that plants have been subjected to identical stress reducing the variability between samples. The leaves of each plant were harvest and directly stored in liquide nitrogen to prevent any biochemical-stress reaction that can lead to misleading results. After 24h of lyophilization, the samples were stored at -80°C.
+Plants observations geo-localisation are avalable on the INaturalist website (DBGI project) [^4].
 
 [Salvia entries of the DBGI project on inaturalist](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/GroupC%20-%20Salvia%20-%20DBGI%20project%20on%20Inaturalist.csv)
 
@@ -99,7 +99,7 @@ High performance liquid chromatography quadrupole orbitrap mass spectrometry (HP
 
 ### Data analysis
 
-The mzML by proteowizard software [^13] and MzMine 2.53 software [^14] were used to preprocess the raw HPLC-QORB-MS data for filtering peaks and get rid off contamination such as plastic coming from laboratory tools. After centroiding and isotopes groupping of the picks, GNPS was used to developpe a feature networking (advance analysis tools) to quantify molecules and reduced molecule redundancy.
+The mzML by [proteowizard ](https://proteowizard.sourceforge.io/) software was used to convert and [MzMine 2.53](https://github.com/mzmine/mzmine2/releases) software was used to preprocess the raw HPLC-QORB-MS data for filtering peaks and get rid off contamination such as plastic coming from laboratory tools. After centroiding and isotopes groupping of the picks, GNPS was used to developpe a feature networking (advance analysis tools) to quantify molecules and reduced molecule redundancy.
 The following GNPS setting were used:
 
 #### Molecular Networking and Spectral Library Search
@@ -112,7 +112,7 @@ The mass spectrometry data were deposited on public repository (provide the depo
 2. [group_C_quant.csv](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C_quant.csv) 
 3. [group_C.mgf](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C.mgf) 
 
-The output files were visualise using cytoscape software [^17].
+The output files were visualise using [cytoscape](https://cytoscape.org/) software.
 
 
 
@@ -146,7 +146,13 @@ Some conclusion that you could get out of this preliminary study.
 [^2]: Rose Jeffrey P., Kriebel Ricardo, Kahan Larissa, DiNicola Alexa, GonzÃ¡lez-Gallegos JesÃºs G., Celep Ferhat, Lemmon Emily M., Lemmon Alan R., Sytsma Kenneth J. & Drew Bryan T. (2021). Sage Insights Into the Phylogeny of Salvia: Dealing With Sources of Discordance Within and Across Genomes, Frontiers in Plant Science, Vol..12	
 https://doi.org/10.3389/fpls.2021.767478   
 
-[^3]: Shouchuang Wang, Saleh Alseekh, Alisdair R. Fernie, Jie Luo. (2019). The Structure and Function of Major Plant Metabolite Modifications, Molecular Plant,  vol 12, issue 7, P899-919, https://doi.org/10.1016/j.molp.2019.06.001
+[^3]: Etat de Fribourg, Energy, agriculture et environnement: Degrés-jours et température moyenne, relevés hebdomadaires, website visited on 27 April 2022 
+https://www.fr.ch/energie-agriculture-et-environnement/energie/degres-jours-et-temperature-moyenne-releves-hebdomadaires
+
+[^4]: INaturalist, website visited on 13 April 2022
+DBGI project https://www.inaturalist.org/projects/digital-botanical-gardens-initiative
+
+Shouchuang Wang, Saleh Alseekh, Alisdair R. Fernie, Jie Luo. (2019). The Structure and Function of Major Plant Metabolite Modifications, Molecular Plant,  vol 12, issue 7, P899-919, https://doi.org/10.1016/j.molp.2019.06.001
 
 [^4]: Jorge Tiago F., Mata Ana T. & António Carla. (2016). Mass spectrometry as a quantitative tool in plant metabolomics, Phil. Trans. R. Soc. A.3742015037020150370
 http://doi.org/10.1098/rsta.2015.0370
@@ -156,23 +162,12 @@ http://doi.org/10.1098/rsta.2015.0370
 [^6]: Walther TC, Mann M. Mass spectrometry-based proteomics in cell biology. J Cell Biol. 2010 Aug 23;190(4):491-500. 
 https://doi.org/10.1083/jcb.201004052
 
-[^7]:
-
-[^8]:
-
-[^9]:
-
-[^10]: Etat de Fribourg, Energy, agriculture et environnement: Degrés-jours et température moyenne, relevés hebdomadaires, website visited on 27 April 2022 
-https://www.fr.ch/energie-agriculture-et-environnement/energie/degres-jours-et-temperature-moyenne-releves-hebdomadaires
-
-[^11]: INaturalist, website visited on 13 April 2022
-DBGI project https://www.inaturalist.org/projects/digital-botanical-gardens-initiative
 
 [^12]: Metabolomic data https://drive.switch.ch/index.php/s/U6Vezrq5mDVzSld
 
-[^13]: Proteowizard https://proteowizard.sourceforge.io/
+[^13]: Proteowizard 
 
-[^14]: MzMine 2.53 https://github.com/mzmine/mzmine2/releases
+[^14]: MzMine 2.53 
 
 [^15]: Filezilla https://filezilla-project.org/download.php?type=client
 
