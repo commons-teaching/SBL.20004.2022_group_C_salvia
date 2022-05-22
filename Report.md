@@ -135,7 +135,7 @@ Link to the GNPS identification table.
 
 
 ![Global_network](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
-![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/169607494-2eeffabe-6642-432d-b938-2a9abdb9c448.png)
+![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/169701451-d1ed265e-d238-4719-95cc-27534510dbd0.png)
 
 ![Molecular Cluster 1](https://user-images.githubusercontent.com/103578333/169107814-5c613ec1-5651-46ab-9ef1-e9e1d2b6b4d6.png)
 
