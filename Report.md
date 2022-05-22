@@ -99,7 +99,7 @@ High performance liquid chromatography quadrupole orbitrap mass spectrometry (HP
 
 ### Data analysis
 
-The mzML by [proteowizard ](https://proteowizard.sourceforge.io/) software was used to convert and [MzMine 2.53](https://github.com/mzmine/mzmine2/releases) software was used to preprocess the raw HPLC-QORB-MS data for filtering peaks and get rid off contamination such as plastic coming from laboratory tools. After centroiding and isotopes groupping of the picks, GNPS was used to developpe a feature networking (advance analysis tools) to quantify molecules and reduced molecule redundancy.
+The [Proteowizard ](https://proteowizard.sourceforge.io/) software was used to convert data raw files in mzML extension file and [MzMine 2.53](https://github.com/mzmine/mzmine2/releases) software was used to preprocess the raw HPLC-QORB-MS data for filtering peaks and get rid off contamination such as plastic coming from laboratory tools. After centroiding and isotopes groupping of the picks, GNPS was used to developpe a feature networking (advance analysis tools) to quantify molecules and reduced molecule redundancy.
 The following GNPS setting were used:
 
 #### Molecular Networking and Spectral Library Search
