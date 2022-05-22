@@ -82,7 +82,7 @@ Plants observations geo-localisation are avalable on the INaturalist website (DB
 
 ![Clade Sclarea](https://user-images.githubusercontent.com/103578333/169152368-3339366b-4021-40a1-8408-57b84b92f232.png)
 
-##### 5. ???
+##### 5. Non defined
 
 ![Salvia Candelabrum](https://user-images.githubusercontent.com/103578333/169149876-5933a88f-a539-476c-aefc-121d39db55ca.png)
 
