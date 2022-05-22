@@ -112,7 +112,7 @@ The mass spectrometry data were deposited on public repository (provide the depo
 2. [group_C_quant.csv](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C_quant.csv) 
 3. [group_C.mgf](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C.mgf) 
 
-The output files were visulaise using cytoscape software [^17].
+The output files were visualise using cytoscape software [^17].
 
 
 
