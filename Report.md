@@ -106,7 +106,7 @@ The following GNPS setting were used:
 A molecular network was created with the Feature-Based Molecular Networking (FBMN) workflow (Nothias L-F, Petras D, Schmid R et al. Nature Methods 17, 905–908 (2020)) on GNPS (https://gnps.ucsd.edu, Wang M et al. Nat. Biotech. 2016). The mass spectrometry data were first processed with MZMINE2 (cite accordingly, see below in the Citations section) and the results were exported to GNPS for FBMN analysis. The precursor ion mass tolerance was set to 0.02 Da and the MS/MS fragment ion tolerance to 0.02 Da. A molecular network was then created where edges were filtered to have a cosine score above 0.7 and more than 6 matched peaks. Further, edges between two nodes were kept in the network if and only if each of the nodes appeared in each others respective top 10 most similar nodes. Finally, the maximum size of a molecular family was set to 100, and the lowest scoring edges were removed from molecular families until the molecular family size was below this threshold. The spectra in the network were then searched against GNPS spectral libraries (Cite Wang M, et al. Nature Biotech. 2016 and Horai, H. et al. J. Mass Spectrom. 45, 703-714 2010). The library spectra were filtered in the same manner as the input data. All matches kept between network spectra and library spectra were required to have a score above 0.7 and at least 6 matched peaks. The DEREPLICATOR was used to annotate MS/MS spectra (Mohimani, H. et al. Nat. Commun. 9, 4035 (2018)). The molecular networks were visualised using Cytoscape software (Shannon, P. et al. Genome Res. 13, 2498-2504 (2003)).
 
 #### Data Deposition and Job Accessibility
-The mass spectrometry data were deposited on public repository (provide the deposition accession number), such as MassIVE or MetaboLights. The molecular networking job can be publicly accessed at https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a (we recommend sharing this link in your manuscript).
+The mass spectrometry data were deposited on public repository (provide the deposition accession number), such as MassIVE or MetaboLights. The molecular networking job can be publicly accessed [here](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a) (we recommend sharing this link in your manuscript).
 
 1. [group_C_metadata.txt](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/GroupC_Metadata.txt) 
 2. [group_C_quant.csv](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C_quant.csv) 
@@ -152,28 +152,22 @@ https://www.fr.ch/energie-agriculture-et-environnement/energie/degres-jours-et-t
 [^4]: INaturalist, website visited on 13 April 2022
 DBGI project https://www.inaturalist.org/projects/digital-botanical-gardens-initiative
 
-Shouchuang Wang, Saleh Alseekh, Alisdair R. Fernie, Jie Luo. (2019). The Structure and Function of Major Plant Metabolite Modifications, Molecular Plant,  vol 12, issue 7, P899-919, https://doi.org/10.1016/j.molp.2019.06.001
+[]Shouchuang Wang, Saleh Alseekh, Alisdair R. Fernie, Jie Luo. (2019). The Structure and Function of Major Plant Metabolite Modifications, Molecular Plant,  vol 12, issue 7, P899-919, https://doi.org/10.1016/j.molp.2019.06.001
 
-[^4]: Jorge Tiago F., Mata Ana T. & António Carla. (2016). Mass spectrometry as a quantitative tool in plant metabolomics, Phil. Trans. R. Soc. A.3742015037020150370
+[]: Jorge Tiago F., Mata Ana T. & António Carla. (2016). Mass spectrometry as a quantitative tool in plant metabolomics, Phil. Trans. R. Soc. A.3742015037020150370
 http://doi.org/10.1098/rsta.2015.0370
 
-[^5]: Malviya, Rishabha & Bansal, Vvipin & Pal, Om & Sharma, Pramod. (2010). High performance liquid chromatography: A short review. Journal of Global Pharma Technology. 2. 22-26. 
+[]: Malviya, Rishabha & Bansal, Vvipin & Pal, Om & Sharma, Pramod. (2010). High performance liquid chromatography: A short review. Journal of Global Pharma Technology. 2. 22-26. 
 
-[^6]: Walther TC, Mann M. Mass spectrometry-based proteomics in cell biology. J Cell Biol. 2010 Aug 23;190(4):491-500. 
+[]: Walther TC, Mann M. Mass spectrometry-based proteomics in cell biology. J Cell Biol. 2010 Aug 23;190(4):491-500. 
 https://doi.org/10.1083/jcb.201004052
 
+[]: Metabolomic data https://drive.switch.ch/index.php/s/U6Vezrq5mDVzSld
 
-[^12]: Metabolomic data https://drive.switch.ch/index.php/s/U6Vezrq5mDVzSld
+[]: Filezilla https://filezilla-project.org/download.php?type=client
 
-[^13]: Proteowizard 
+[]: GNPS https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp
 
-[^14]: MzMine 2.53 
-
-[^15]: Filezilla https://filezilla-project.org/download.php?type=client
-
-[^16]: GNPS https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp
-
-[^17]: Cytoscape https://cytoscape.org/
 
 Note that you can make a footnot like this [^1]
 
