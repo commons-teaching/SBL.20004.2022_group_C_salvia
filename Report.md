@@ -132,8 +132,6 @@ Link to the GNPS job.
 Link to the GNPS identification table.
 
 
-
-
 ![Global_network](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
 ![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/169701451-d1ed265e-d238-4719-95cc-27534510dbd0.png)
 
