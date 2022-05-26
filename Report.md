@@ -134,6 +134,14 @@ Link to the GNPS identification table.
 ![Global_network](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
 ![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/169701451-d1ed265e-d238-4719-95cc-27534510dbd0.png)
 
+1. Glutinaria
+2. Heterosphae
+3. Salvia
+4. Sclarea
+5. Salvia candelabrum
+6. Blank
+![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
+
 
 ## Conclusion
 
