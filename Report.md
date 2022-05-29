@@ -127,7 +127,8 @@ A link to the final feature list (uploaded to github).
 ### Molecular Network
 
 Screenshots of your molecular network and of some clusters of interest.
-Link to the GNPS job.
+The molecular network is link to the [GNPS job](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a).
+
 Link to the GNPS identification table.
 
 
@@ -142,7 +143,6 @@ Link to the GNPS identification table.
 4. Sclarea
 5. Salvia candelabrum
 6. Blank
-
 
 
 The compound identified in abundance in each clade is caffeinic acid. It's an important intermediate in lignin biosynthesis. Another one present in abundance is the rosmarinic acid that is a caffeinic acid ester and its supposed function is the defense of the plants [^5]. 
