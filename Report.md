@@ -135,7 +135,7 @@ Link to the GNPS identification table.
 ![Global_network](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
 
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
-![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/170880000-32cf0f3c-add5-4dd0-a4d9-1bf5640e319b.png)
+![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/170880503-da5fd5d0-1d01-4847-b7eb-207252299877.png)
 
 1. Glutinaria
 2. Heterosphae
