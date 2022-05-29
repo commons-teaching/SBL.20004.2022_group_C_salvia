@@ -142,6 +142,7 @@ Link to the GNPS identification table.
 6. Blank
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 
+The compound identified by the database and present in abundance in each clade is caffeinic acid. It's an important intermediate in lignin biosynthesis. 
 
 ## Conclusion
 
