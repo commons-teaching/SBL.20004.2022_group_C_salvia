@@ -144,7 +144,7 @@ Link to the GNPS identification table.
 
 The compound identified by the database and present in abundance in each clade is caffeinic acid. It's an important intermediate in lignin biosynthesis. Another one present in abundance is the rosmarinic acid that is a caffeinic acid ester and its supposed function is the defense of the plants [5]. 
 
-Camphora compound were identify only in the Salvia clade and in the plant salvia candelabrum which wasn't clade defined. This substance is known for its therapeutic effect and extracted from leafs of Salvia officinalis [^6]. This evidence suggested a possible relationship between this plant and salvia clade. 
+Camphora compound were identify only in the Salvia clade and in the plant salvia candelabrum which wasn't clade defined. This substance is known for its therapeutic effect and usually extracted from leafs of Salvia officinalis which is part of salvia clade [^6]. This evidence suggested a possible relationship between this plant and salvia clade. 
 
 ## Conclusion
 
