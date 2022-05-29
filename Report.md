@@ -132,7 +132,9 @@ Link to the GNPS identification table.
 
 
 ![Global_network](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
-![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/169701451-d1ed265e-d238-4719-95cc-27534510dbd0.png)
+
+![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
+![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/170880000-32cf0f3c-add5-4dd0-a4d9-1bf5640e319b.png)
 
 1. Glutinaria
 2. Heterosphae
@@ -140,7 +142,8 @@ Link to the GNPS identification table.
 4. Sclarea
 5. Salvia candelabrum
 6. Blank
-![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
+
+
 
 The compound identified in abundance in each clade is caffeinic acid. It's an important intermediate in lignin biosynthesis. Another one present in abundance is the rosmarinic acid that is a caffeinic acid ester and its supposed function is the defense of the plants [^5]. 
 
