@@ -142,7 +142,9 @@ Link to the GNPS identification table.
 6. Blank
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 
-The compound identified by the database and present in abundance in each clade is caffeinic acid. It's an important intermediate in lignin biosynthesis. 
+The compound identified by the database and present in abundance in each clade is caffeinic acid. It's an important intermediate in lignin biosynthesis. another one present in abundance is the rosmarinic acid that is a caffeinic acid ester and its supposed function is the defense of the plants [5]. 
+
+Camphora compound were identify only in the Salvia clade and in the strain Salvia Candelabrum which wasn't clade defined. This substance is known for it's therapeuthic effect and extracted from leafs of Salvia officinalis [^6]. 
 
 ## Conclusion
 
@@ -160,6 +162,10 @@ https://www.fr.ch/energie-agriculture-et-environnement/energie/degres-jours-et-t
 
 [^4]: INaturalist, website visited on 13 April 2022
 DBGI project https://www.inaturalist.org/projects/digital-botanical-gardens-initiative
+
+[^5]: Petersen M, Abdullah Y, Benner J, Eberle D, Gehlen K, Hücherig S, Janiak V, Kim KH, Sander M, Weitzel C, Wolters S. Evolution of rosmarinic acid biosynthesis. Phytochemistry. 2009 Oct-Nov;70(15-16):1663-79. doi: 10.1016/j.phytochem.2009.05.010. Epub 2009 Jun 25. PMID: 19560175.
+
+[^6]: Croteau R, Felton M, Karp F, Kjonaas R. Relationship of Camphor Biosynthesis to Leaf Development in Sage (Salvia officinalis). Plant Physiol. 1981 Apr;67(4):820-4. doi: 10.1104/pp.67.4.820. PMID: 16661761; PMCID: PMC425779.
 
 []Shouchuang Wang, Saleh Alseekh, Alisdair R. Fernie, Jie Luo. (2019). The Structure and Function of Major Plant Metabolite Modifications, Molecular Plant,  vol 12, issue 7, P899-919, https://doi.org/10.1016/j.molp.2019.06.001
 
