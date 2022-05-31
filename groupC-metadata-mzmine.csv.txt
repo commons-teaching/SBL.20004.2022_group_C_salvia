@@ -1,0 +1,16 @@
+filename,ATTRIBUTE_Species,ATTRIBUTE_XXX_iNat_id,ATTRIBUTE_XXX,ATTRIBUTE_YYY,ATTRIBUTE_Clade
+20220504_groupC_DBGI_07_nd.mzML,ND,ND,ND,Blank,nd
+20220504_groupC_DBGI_07_01.mzML,Salvia officinalis purpurascens,https://www.inaturalist.org/observations/111313011,Gp_C,MeOH/H2O/FA,Salvia
+20220504_groupC_DBGI_07_02.mzML,Salvia Przewalskii,https://www.inaturalist.org/observations/111312692,Gp_C,MeOH/H2O/FA,Glutinaria
+20220504_groupC_DBGI_07_03.mzML,Salvia Candidissima,https://www.inaturalist.org/observations/111312224,Gp_C,MeOH/H2O/FA,Sclarea
+20220504_groupC_DBGI_07_04.mzML,Salvia Miltirrhiza,https://www.inaturalist.org/observations/111312939,Gp_C,MeOH/H2O/FA,Glutinaria
+20220504_groupC_DBGI_07_05.mzML,Salvia sclarea sclarea,https://www.inaturalist.org/observations/111310606,Gp_C,MeOH/H2O/FA,Sclarea
+20220504_groupC_DBGI_07_06.mzML,Salvia Palaestina,https://www.inaturalist.org/observations/111312539,Gp_C,MeOH/H2O/FA,Sclarea
+20220504_groupC_DBGI_07_07.mzML,Salvia Scabra,https://www.inaturalist.org/observations/111312071,Gp_C,MeOH/H2O/FA,Heterosphae
+20220504_groupC_DBGI_07_08.mzML,Salvia Verticillata heterosphace ,https://www.inaturalist.org/observations/111312848,Gp_C,MeOH/H2O/FA,Heterosphae
+20220504_groupC_DBGI_07_09.mzML,Salvia Officinalis,https://www.inaturalist.org/observations/111311938,Gp_C,MeOH/H2O/FA,Salvia
+20220504_groupC_DBGI_07_10.mzML,Salvia Argentae,https://www.inaturalist.org/observations/111311826,Gp_C,MeOH/H2O/FA,Sclarea
+20220504_groupC_DBGI_07_11.mzML,salvia officinalis icterina,https://www.inaturalist.org/observations/111311938,Gp_C,MeOH/H2O/FA,Salvia
+20220504_groupC_DBGI_07_12.mzML,Salvia Nubicola,https://www.inaturalist.org/observations/111312745,Gp_C,MeOH/H2O/FA,Glutinaria
+20220504_groupC_DBGI_07_13.mzML,Salvia Interrupta,https://www.inaturalist.org/observations/111312601,Gp_C,MeOH/H2O/FA,Salvia
+20220504_groupC_DBGI_07_14.mzML,Salvia candelabrum,https://www.inaturalist.org/observations/111311673,Gp_C,MeOH/H2O/FA,Salvia
