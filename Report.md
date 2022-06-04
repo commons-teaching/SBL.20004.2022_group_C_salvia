@@ -134,7 +134,7 @@ Link to the GNPS identification table.
 -
 -
 
-####Network n° 1:
+#### Network n° 1:
 ![Network n°1: Salvia Candidissima was not assigned to the clade Salvia](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
 
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
@@ -147,7 +147,7 @@ The compound identified in abundance in each clade is caffeinic acid. It's an im
 
 In the first network, camphora compound were identified only in the Salvia clade and in the plant salvia candelabrum which wasn't clade defined. This substance is known for its therapeutic effect and usually extracted from leafs of Salvia officinalis which is part of salvia clade [^6]. This evidence suggested a relationship between this plant and salvia clade. 
 
-####Network n° 2:
+#### Network n° 2:
 ![image](https://user-images.githubusercontent.com/103578333/172025698-53ab47b8-47dd-4c04-b0f4-ea09f2f9ed78.png)
 In the second network 159 compounds are identified.
 
