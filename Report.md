@@ -75,7 +75,7 @@ Plants observations geo-localisation are avalable on the INaturalist website (DB
 
 ##### 3. Salvia:     
 
-![Clade Salvia](https://user-images.githubusercontent.com/103578333/169148133-80c1a659-db9d-4324-b917-2b1bf742079c.png)
+![Clade Salvia](https://user-images.githubusercontent.com/103578333/172025107-53eb0a63-1289-47c0-a074-af76881859c2.png)
 
 
 ##### 4. Sclarea:   
