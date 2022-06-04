@@ -82,7 +82,7 @@ Plants observations geo-localisation are avalable on the INaturalist website (DB
 
 ![Clade Sclarea](https://user-images.githubusercontent.com/103578333/169152368-3339366b-4021-40a1-8408-57b84b92f232.png)
 
-##### 5. Non defined
+##### 5. Non defined in Network n°1 (without filled gaps) but assigned in Salvia clade in Network n°2 (filled gaps)
 
 ![Salvia Candelabrum](https://user-images.githubusercontent.com/103578333/169149876-5933a88f-a539-476c-aefc-121d39db55ca.png)
 
@@ -137,7 +137,7 @@ We did two GNPS analysis:
 
 Based on our research we should observe a difference between
 
-![First Global_network](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
+![Network n°1: Salvia Candidissima was not assigned to the clade Salvia](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
 
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/170880503-da5fd5d0-1d01-4847-b7eb-207252299877.png)
