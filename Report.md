@@ -129,20 +129,32 @@ A link to the final feature list (uploaded to github).
 Screenshots of your molecular network and of some clusters of interest.
 The molecular network is link to the [GNPS job](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a).
 
-Link to the GNPS identification table.
+Link to the GNPS identification table. 
 
+We did two GNPS analysis:
+1. without filled gap and define Salvia Candelabrum as part of the Salvia clade 
+2. with filled gap 
 
-![Global_network](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
+Based on our research we should observe a difference between
+
+![First Global_network](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
 
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/170880503-da5fd5d0-1d01-4847-b7eb-207252299877.png)
 
 
-Out of 1551 measured peaks 392 identifications have been produced by GNPS.
+For the first network, out of 1551 measured peaks 392 identifications have been produced by GNPS. 
+For the second network, out of ...
 
 The compound identified in abundance in each clade is caffeinic acid. It's an important intermediate in lignin biosynthesis. Another one present in abundance is the rosmarinic acid that is a caffeinic acid ester and its supposed function is the defense of the plants [^5]. 
 
-Camphora compound were identified only in the Salvia clade and in the plant salvia candelabrum which wasn't clade defined. This substance is known for its therapeutic effect and usually extracted from leafs of Salvia officinalis which is part of salvia clade [^6]. This evidence suggested a relationship between this plant and salvia clade. 
+In the first network, camphora compound were identified only in the Salvia clade and in the plant salvia candelabrum which wasn't clade defined. This substance is known for its therapeutic effect and usually extracted from leafs of Salvia officinalis which is part of salvia clade [^6]. This evidence suggested a relationship between this plant and salvia clade. 
+
+## Discussion
+
+![Salvia_phylogeny based on nuclear gene study](https://user-images.githubusercontent.com/103578333/172018211-3c37814d-f1e2-4c87-bcb9-5ed3ab0a7255.jpg)
+
+We should observe a difference between Glutinaria clade and Heterosphae, Salvia and Sclarea clades. 
 
 
 ## Conclusion
