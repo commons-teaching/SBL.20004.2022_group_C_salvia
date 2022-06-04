@@ -70,7 +70,7 @@ Plants observations geo-localisation are avalable on the INaturalist website (DB
 
 ##### 2. Heterosphace:
 
-![Clade Heterosphace](https://user-images.githubusercontent.com/103578333/169702091-f4a67aa5-dca6-4ab3-b42a-f43e68c9739a.png)
+![Clade Heterosphace](https://user-images.githubusercontent.com/103578333/172025259-f5e7753a-8035-4295-b351-94dc2e53ddf7.png)
 
 
 ##### 3. Salvia:     
