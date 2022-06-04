@@ -126,8 +126,8 @@ A link to the final feature list (uploaded to github).
 
 ### Molecular Network
 
-Screenshots of your molecular network and of some clusters of interest.
-The molecular network is link to the [GNPS job](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a).
+Two molecular networks were performed by GNPS. 
+The first molecular network is linked to the [GNPS job n°1](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a) and the second molecular network is linked to the [GNPS job n°2](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=10d92d779bd741d09af035b2e89d7bad)
 
 Link to the GNPS identification table. 
 
