@@ -142,8 +142,7 @@ Based on our research we should observe a difference between
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/172025581-15b64027-862e-4cea-bee5-85dce47950e6.png)
 
-
-In the second network 159 compounds are identified. 
+ 
 
 For the first network, out of 1551 measured peaks 392 identifications have been produced by GNPS. 
 For the second network, out of ...
@@ -151,6 +150,9 @@ For the second network, out of ...
 The compound identified in abundance in each clade is caffeinic acid. It's an important intermediate in lignin biosynthesis. Another one present in abundance is the rosmarinic acid that is a caffeinic acid ester and its supposed function is the defense of the plants [^5]. 
 
 In the first network, camphora compound were identified only in the Salvia clade and in the plant salvia candelabrum which wasn't clade defined. This substance is known for its therapeutic effect and usually extracted from leafs of Salvia officinalis which is part of salvia clade [^6]. This evidence suggested a relationship between this plant and salvia clade. 
+
+![image](https://user-images.githubusercontent.com/103578333/172025698-53ab47b8-47dd-4c04-b0f4-ea09f2f9ed78.png)
+In the second network 159 compounds are identified.
 
 ## Discussion
 
