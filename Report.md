@@ -127,8 +127,8 @@ A link to the final feature list (uploaded to github).
 ### Molecular Network
 
 Two molecular networks were performed by GNPS:
--[GNPS job n°1](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a): without gap filled and Salvia Candelabrum isn't assigned to Salvia clade.
--[GNPS job n°2](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=10d92d779bd741d09af035b2e89d7bad): with gap filled and Salvia Candelabrum is assigned to Salvia clade.
+*[GNPS job n°1](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a): without gap filled and Salvia Candelabrum isn't assigned to Salvia clade.
+*[GNPS job n°2](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=10d92d779bd741d09af035b2e89d7bad): with gap filled and Salvia Candelabrum is assigned to Salvia clade.
 
 Link to the GNPS identification table. 
 -
