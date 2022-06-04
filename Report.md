@@ -140,9 +140,7 @@ Based on our research we should observe a difference between
 ![Network n°1: Salvia Candidissima was not assigned to the clade Salvia](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
 
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
-![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/170880503-da5fd5d0-1d01-4847-b7eb-207252299877.png)
-
-![image](https://user-images.githubusercontent.com/103578333/172025581-15b64027-862e-4cea-bee5-85dce47950e6.png)
+![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/172025581-15b64027-862e-4cea-bee5-85dce47950e6.png)
 
 
 In the second network 159 compounds are identified. 
