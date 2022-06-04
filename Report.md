@@ -142,6 +142,7 @@ Based on our research we should observe a difference between
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/170880503-da5fd5d0-1d01-4847-b7eb-207252299877.png)
 
+In the second network 160 compound are identify. 
 
 For the first network, out of 1551 measured peaks 392 identifications have been produced by GNPS. 
 For the second network, out of ...
