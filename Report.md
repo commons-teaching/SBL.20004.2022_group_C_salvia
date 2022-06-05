@@ -150,7 +150,7 @@ In all plants, natural products identified in abundance are caffeicacid, glutami
 
 Caffeic acid and rosmarinic acid belong to the same clusters. Rosmarinic acid is an ester of caffeic acid and 3,4-dihydroxyphenyllactic acid [5]. 
 
-![Caffeic acid](https://user-images.githubusercontent.com/103578333/172054720-b6b05a02-c952-4211-b751-5c4bcc167e66.png)
+![Caffeic acid and rosmarinic acid](https://user-images.githubusercontent.com/103578333/172063743-f0af1564-895a-4c6c-9543-84c0203b4923.png)
 
 When we look at most abundant but in more specific at a subgenus than the other subgenus we can highlight some natural product (in red in the table).
 
