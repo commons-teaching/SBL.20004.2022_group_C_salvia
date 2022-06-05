@@ -169,6 +169,8 @@ In Salvia subgenus, carnosol is the second main natural product identified. For 
 
 ![Carnosol](https://user-images.githubusercontent.com/103578333/172056490-5b1901a6-3dcc-479e-9265-97accf4122ec.png)
 
+In this cluster, the only compound name given among all nods is carnosol. 
+
 ![Rosmarinic acid](https://user-images.githubusercontent.com/103578333/172056068-7642b9af-4d60-4f8e-8787-d185f318c6d5.png)
 
 
