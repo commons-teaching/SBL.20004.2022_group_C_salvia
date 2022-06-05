@@ -193,7 +193,7 @@ The clusters formed by the network are interesting because they allow to quickly
 
 The problem in the presented networks is the low number of identified molecules. Moreover, none of the identified and named features is specific to a subgenus. So the assumptions can be made only on the difference of abundance between the different sub-genus.  
 
-As mentionned in the introduction the goal of our study is to rebuild a phylogenis based on metabolomic analysis. We rely on the study, based on nuclear gene study, presenting the subgenus Glutinaria more distant phylogenetically than the subgenus Heterosphace, Salvia and Scabra. 
+As mentionned in the introduction the goal of our study is to rebuild a phylogenic tree based on metabolomic analysis. We rely on the study, based on nuclear gene analysis, presenting the subgenus Glutinaria more distant phylogenetically than the subgenus Heterosphace, Salvia and Scabra. 
 
 ![Salvia_phylogeny based on nuclear gene study](https://user-images.githubusercontent.com/103578333/172018211-3c37814d-f1e2-4c87-bcb9-5ed3ab0a7255.jpg)
 
