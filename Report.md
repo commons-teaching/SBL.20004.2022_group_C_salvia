@@ -162,6 +162,9 @@ In salvia subgenus, carnosol is the second main natural product identified. For 
 
 In heterosphace subgenus, 
 
+![3-Hydroxy-6,3',4'-trimethoxyflavone](https://user-images.githubusercontent.com/103578333/172057291-16721d53-5758-406e-a2d7-6634fd5044c4.png)
+
+
 ##### Sclarea
 
 In Sclarea subgenus, 
