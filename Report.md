@@ -144,13 +144,11 @@ The size of the nodes is adjusted by cytoscape and setted proportional to the ab
 ![Legend of molecular Network n°1](https://user-images.githubusercontent.com/103578333/172026169-bd4343b3-3132-4482-9107-ba5a662a43ad.png)
 
 
-In all plants, natural products identified in abundance are caffeicacid, glutamic acid, 3-Hydroxy-6,3',4'-trimethoxyflavone, L-pyroglutamic acid, rosmarinic acid, nandrolone, glutamine, ursolic acid and manool (on the following table, natural products are highlighted by filled background color).
+In all subgenus, same number of natural products were identify by GNPS. The difference is the abundance et the occurence. In total for all subgenus, 209 compound names were assigned based on the feature comparison. So we focus on difference in abundancy between subgenus and with cytoscape we can visualized natural product relations. 
 
 ![Most abundant identified natural product per subgenus](https://user-images.githubusercontent.com/103578333/172064923-6103dfa7-11e8-4c28-bbe8-8f80ff4ff1cc.png)
 
 ##### Glutinaria
-
-In Glutinaria subgenus, 
 
 Caffeic acid and rosmarinic acid belong to the same clusters. Rosmarinic acid is an ester of caffeic acid and 3,4-dihydroxyphenyllactic acid [5]. Here we can see directly that in glutinaria subgenus the composition in caffeic acid is higher than the composition in romarinic acid. 
 
