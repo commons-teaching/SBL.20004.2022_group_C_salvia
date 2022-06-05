@@ -142,7 +142,7 @@ Link to the GNPS identification table.
 
 In all plants, natural products identified in abundance are caffeicacid, glutamic acid, 3-Hydroxy-6,3',4'-trimethoxyflavone, L-pyroglutamic acid, rosmarinic acid, nandrolone, glutamine, ursolic acid and manool (on the following table, natural products are highlighted by filled background color).
 
-![Most abundant identified natural product per subgenus](https://user-images.githubusercontent.com/103578333/172051274-aa5b0b53-ec2f-4026-9dc1-9742ddcb10fb.png)
+![Most abundant identified natural product per subgenus](https://user-images.githubusercontent.com/103578333/172051861-e44fa28e-e206-4349-84c1-dc867b27d87c.png)
 
 When we look at most abundant but in more specific at a subgenus than the other subgenus we can highlight some natural product (in red in the table).
 
