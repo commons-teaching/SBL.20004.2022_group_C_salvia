@@ -140,14 +140,13 @@ Link to the GNPS identification table.
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network n°1](https://user-images.githubusercontent.com/103578333/172026169-bd4343b3-3132-4482-9107-ba5a662a43ad.png)
 
-In all plants natural products identified in abundance are caffeicacid, glutamic acid, rosmarinic acid and ursolic acid. In salvia carnosol is the second main natural product identified. For the other caldes this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphae: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). 
+In all plants, natural products identified in abundance are caffeicacid, glutamic acid, rosmarinic acid and ursolic acid. Caffeinic acid is an important intermediate in lignin biosynthesis and rosmarinic acid that is a caffeinic acid ester and its supposed function is the defense of the plants [^5]. 
+
+In salvia carnosol is the second main natural product identified. For the other caldes this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphae: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia interrupta and salvia candidissima is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. 
 
 For the first network, out of 1551 measured peaks 392 identifications have been produced by GNPS. 
 For the second network, out of ...
 
-The compound identified in abundance in each clade is caffeinic acid. It's an important intermediate in lignin biosynthesis. Another one present in abundance is the rosmarinic acid that is a caffeinic acid ester and its supposed function is the defense of the plants [^5]. 
-
-In the first network, camphora compound were identified only in the Salvia clade and in the plant salvia candelabrum which wasn't clade defined. This substance is known for its therapeutic effect and usually extracted from leafs of Salvia officinalis which is part of salvia clade [^6]. This evidence suggested a relationship between this plant and salvia clade. 
 
 #### Network n° 2:
 ![Legend of molecular Network n°2](https://user-images.githubusercontent.com/103578333/172025698-53ab47b8-47dd-4c04-b0f4-ea09f2f9ed78.png)
