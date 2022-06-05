@@ -146,7 +146,7 @@ In all plants, natural products identified in abundance are caffeicacid, glutami
 
 ![Most abundant identified natural product per subgenus](https://user-images.githubusercontent.com/103578333/172051861-e44fa28e-e206-4349-84c1-dc867b27d87c.png)
 
-![Caffeic acid](https://user-images.githubusercontent.com/103578333/172052700-d28eb7bc-0ebb-4213-b316-c1f5cf04df12.png)
+![Caffeic acid](https://user-images.githubusercontent.com/103578333/172054720-b6b05a02-c952-4211-b751-5c4bcc167e66.png)
 
 
 When we look at most abundant but in more specific at a subgenus than the other subgenus we can highlight some natural product (in red in the table).
