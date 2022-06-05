@@ -144,6 +144,9 @@ In all plants, natural products identified in abundance are caffeicacid, glutami
 
 ![Most abundant identified natural product per subgenus](https://user-images.githubusercontent.com/103578333/172051861-e44fa28e-e206-4349-84c1-dc867b27d87c.png)
 
+![image](https://user-images.githubusercontent.com/103578333/172051997-d7ec466a-c38c-434f-a359-b340cafcf3f4.png)
+
+
 When we look at most abundant but in more specific at a subgenus than the other subgenus we can highlight some natural product (in red in the table).
 
 In salvia subgenus, carnosol is the second main natural product identified. For the other subgenus this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphace: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia interrupta and salvia candidissima is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. 
