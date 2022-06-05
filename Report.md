@@ -25,7 +25,7 @@ For this reason, the choice of plants to be analysed is based on two criteria:
 
 Therefore we performed a MS-metabolome analysis of several Salvia strains cultivated in the botanical garden of the University of Fribourg. The aim is to reconstruct a phylogenetic tree based on the metabolome’s analysis and compare it to databases and similar studies. Data collected will contribute to the molecular cartography of the botanical garden. This project is led by Dr. Emmanuel Defossez and Dr. Pierre-Marie Allard [^1]. 
 
-Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 different species in the 15 section of the botanical garden. They represent 3 clades subgenus (Glutinaria, Salvia and Sclarea) of the 11 commonly accepted (1. Audibertia, 2. Calosphace, 3. Dorystaechas, 4. Glutinaria, 5. Heterosphace, 6. Meriandra, 7. Peroskia, 8. Rosmarinus, 9. Salvia, 10. Sclarea, 11. Zhumeria). Heterosphae is not clearly defined as a clade but its heritage differs as a result of geographical events. A genomic study using next-generation sequencing on which we base our comparison, defined Heterosphae as a clade [^2]. To simplify and do easier comparisons we will use the same nomenclature. 
+Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 different species in the 15 section of the botanical garden. They represent 3 subgenus (Glutinaria, Salvia and Sclarea) of the 11 commonly accepted (1. Audibertia, 2. Calosphace, 3. Dorystaechas, 4. Glutinaria, 5. Heterosphace, 6. Meriandra, 7. Peroskia, 8. Rosmarinus, 9. Salvia, 10. Sclarea, 11. Zhumeria). Heterosphae is not clearly defined as a subgenus but its heritage differs as a result of geographical events. A genomic study using next-generation sequencing on which we base our comparison, defined Heterosphae as a subgenus [^2]. To simplify and do easier comparisons we will use the same nomenclature. 
 
 Mass spectrometry is a powerful analytical system defined by three components: 
 
@@ -65,22 +65,22 @@ Plants observations geo-localisation are avalable on the INaturalist website (DB
 
 ##### 1.  Glutinaria:
 
-![Clade Glutinaria](https://user-images.githubusercontent.com/103578333/169149050-c9872802-53aa-484a-8532-9ade79ffd77e.png)
+![Glutinaria](https://user-images.githubusercontent.com/103578333/169149050-c9872802-53aa-484a-8532-9ade79ffd77e.png)
 
 
 ##### 2. Heterosphace:
 
-![Clade Heterosphace](https://user-images.githubusercontent.com/103578333/172025317-1d2961d5-25dd-4a08-bbbc-8d0d3f45d70e.png)
+![Heterosphace](https://user-images.githubusercontent.com/103578333/172025317-1d2961d5-25dd-4a08-bbbc-8d0d3f45d70e.png)
 
 
 ##### 3. Salvia:     
 
-![Clade Salvia](https://user-images.githubusercontent.com/103578333/172025107-53eb0a63-1289-47c0-a074-af76881859c2.png)
+![Salvia](https://user-images.githubusercontent.com/103578333/172025107-53eb0a63-1289-47c0-a074-af76881859c2.png)
 
 
 ##### 4. Sclarea:   
 
-![Clade Sclarea](https://user-images.githubusercontent.com/103578333/169152368-3339366b-4021-40a1-8408-57b84b92f232.png)
+![Sclarea](https://user-images.githubusercontent.com/103578333/169152368-3339366b-4021-40a1-8408-57b84b92f232.png)
 
 ##### 5. Non defined in Network n°1 (without filled gaps) but assigned in Salvia clade in Network n°2 (filled gaps)
 
@@ -127,21 +127,20 @@ A link to the final feature list (uploaded to github).
 ### Molecular Network
 
 Two molecular networks were performed by GNPS:
-- [GNPS job n°1](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a): without gap filled and Salvia Candelabrum isn't assigned to Salvia clade.
-- [GNPS job n°2](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=10d92d779bd741d09af035b2e89d7bad): with gap filled and Salvia Candelabrum is assigned to Salvia clade.
+- [GNPS job n°1](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a): without gap filled and Salvia Candelabrum isn't assigned to Salvia subgenus.
+- [GNPS job n°2](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=10d92d779bd741d09af035b2e89d7bad): with gap filled and Salvia Candelabrum is assigned to Salvia subgenus.
 
 Link to the GNPS identification table. 
 -
 -
 
 #### Network n° 1:
-![Network n°1: Salvia Candidissima was not assigned to the clade Salvia](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
+![Network n°1: Salvia Candidissima was not assigned to the subgenus Salvia](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
 
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network n°1](https://user-images.githubusercontent.com/103578333/172026169-bd4343b3-3132-4482-9107-ba5a662a43ad.png)
 
-In all strains natural products identified in abundance are caffeicacid, glutamic acid,rosmarinic acid and ursolic acid. In salvia carnosol is the second main natural product identified. For the other caldes this compund is really less abundant (glutinaria: 189th place, heterosphae: 86th place and sclarea: 109th place). 
-
+In all plants natural products identified in abundance are caffeicacid, glutamic acid, rosmarinic acid and ursolic acid. In salvia carnosol is the second main natural product identified. For the other caldes this compund is really less abundant (glutinaria: 189^th place, heterosphae: 86^th place and sclarea: 109^th place). 
 
 For the first network, out of 1551 measured peaks 392 identifications have been produced by GNPS. 
 For the second network, out of ...
