@@ -201,7 +201,7 @@ As mentionned in the introduction the goal of our study is to rebuild a phylogen
 
 ## Conclusion
 
-Some conclusion that you could get out of this preliminary study.
+With this preliminary study it's difficult to build a phylogenic tree because identify and named features are few. 
 
 # References
 
