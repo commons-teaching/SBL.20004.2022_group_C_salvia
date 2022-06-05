@@ -153,7 +153,7 @@ In all subgenus, same number of natural products are identified by GNPS. The dif
 - Blue: flavonid compounds
 - Pink: caffeic acid and related compounds
 - Green: glutamine and related compounds
-- Red: compounds link to lignine synthesis
+- Red: compounds link to lignin synthesis
 
 ##### Glutinaria
 
@@ -163,7 +163,7 @@ Caffeic acid and rosmarinic acid belong to the same clusters. Rosmarinic acid is
 
 ##### Heterosphace
 
-In Heterosphace subgenus, 
+In the network, there isn't cluster predominantly for Heterosphace subgenus compound.  
 
 ##### Salvia
 
@@ -189,10 +189,17 @@ In the second network 159 compounds are identified.
 
 ## Discussion
 
+The clusters formed by the network are interesting because they allow to quickly identify an function or an group of molecules that are associated. This is well observed with the group of caffeic acids and the group of flavonid compounds. 
+
+The problem in the presented networks is the low number of identified molecules. Moreover, none of the identified and named features is specific to a sub-genus. So the assumptions can be made only on the variance of abundance between the different sub-genus.  
+
+As mentionned in the introduction the goal of our study is to rebuild a phylogenis based on metabolomic analysis. We rely on the study, based on nuclear gene study, presenting the subgenus Glutinaria more distant phylogenetically than the subgenus Heterosphace, Salvia and Scabra. 
+
 ![Salvia_phylogeny based on nuclear gene study](https://user-images.githubusercontent.com/103578333/172018211-3c37814d-f1e2-4c87-bcb9-5ed3ab0a7255.jpg)
 
 We should observe a difference between Glutinaria clade and Heterosphace, Salvia and Sclarea clades. 
 
+The 
 
 ## Conclusion
 
