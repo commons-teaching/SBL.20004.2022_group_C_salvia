@@ -140,6 +140,10 @@ Link to the GNPS identification table.
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network n°1](https://user-images.githubusercontent.com/103578333/172026169-bd4343b3-3132-4482-9107-ba5a662a43ad.png)
 
+In all strains natural products identified in abundance are caffeicacid, glutamic acid,rosmarinic acid and ursolic acid.
+![image](https://user-images.githubusercontent.com/103578333/172045773-c94024b3-7a31-437f-b832-04904a8d20ee.png)
+
+
 For the first network, out of 1551 measured peaks 392 identifications have been produced by GNPS. 
 For the second network, out of ...
 
