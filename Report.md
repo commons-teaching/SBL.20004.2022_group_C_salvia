@@ -150,18 +150,22 @@ In all plants, natural products identified in abundance are caffeicacid, glutami
 
 When we look at most abundant but in more specific at a subgenus than the other subgenus we can highlight some natural product (in red in the table).
 
+##### Glutinaria
+
+In Glutinaria subgenus, 
+
+
+##### Heterosphace
+
+In Heterosphace subgenus, 
+
 ##### Salvia
 
-In salvia subgenus, carnosol is the second main natural product identified. For the other subgenus this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphace: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia interrupta and salvia candidissima is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. 
+In Salvia subgenus, carnosol is the second main natural product identified. For the other subgenus this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphace: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia interrupta and salvia candidissima is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. 
 
 ![Carnosol](https://user-images.githubusercontent.com/103578333/172056490-5b1901a6-3dcc-479e-9265-97accf4122ec.png)
 
 ![Rosmarinic acid](https://user-images.githubusercontent.com/103578333/172056068-7642b9af-4d60-4f8e-8787-d185f318c6d5.png)
-
-##### Heterosphace
-
-In heterosphace subgenus, 
-
 
 
 ##### Sclarea
@@ -169,10 +173,6 @@ In heterosphace subgenus,
 In Sclarea subgenus, 
 
 ![3-Hydroxy-6,3',4'-trimethoxyflavone](https://user-images.githubusercontent.com/103578333/172057356-ab92dcd1-47db-4fea-883a-297ac4dec035.png)
-
-
-For the first network, out of 1551 measured peaks 392 identifications have been produced by GNPS. 
-For the second network, out of ...
 
 
 #### Network n° 2:
