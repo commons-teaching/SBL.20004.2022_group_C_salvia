@@ -178,7 +178,7 @@ In Sclarea subgenus,
 
 ![3-Hydroxy-6,3',4'-trimethoxyflavone](https://user-images.githubusercontent.com/103578333/172057356-ab92dcd1-47db-4fea-883a-297ac4dec035.png)
 
-In this cluster others natural products are identified such as NCGC00385624-01!(2S,3S,4S,5R,6S)-6-[2-(3,4-dihydroxyphenyl)-5-hydroxy-4-oxochromen-7-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid : **463.0873**, luteolin 4'-O-glucoside : **449.1081**, Kaempferol 3-glucuronide : **463.0873**, Cosmosiine : **433.1132**, 5-hydroxy-2-(4-hydroxy-3-methoxyphenyl)-7-[3,4,5-trihydroxy-6-(hydroxymethyl)( 2H-3,4,5,6-tetrahydropyran-2-yloxy)]chromen-4-one : **463.1235**. 
+In this cluster others natural products are identified. Four most abundant are apigenin-7-O-glucuronide : **447.0923**, Kaempferol 3-glucuronide : **463.0873**, luteolin 4'-O-glucoside : **449.1081** and NCGC00385624-01!(2S,3S,4S,5R,6S)-6-[2-(3,4-dihydroxyphenyl)-5-hydroxy-4-oxochromen-7-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid : **463.0873**.  
 
 ![NEROLIDOL, Bisabolol](https://user-images.githubusercontent.com/103578333/172057987-35db224e-32e3-47fb-8fc4-202661a776f4.png)
 
