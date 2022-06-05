@@ -136,14 +136,13 @@ Link to the GNPS identification table.
 
 #### Network n° 1:
 
-The size of the nodes is adjusted by cytoscape and set proportional to the abundance of the feature mesaured in glutinaria. We want to highlight the clusters that distinguish glutinaria from other subgenus because glutinaria should be more distantly related to the other subgenus. 
+The size of the nodes is adjusted by cytoscape and setted proportional to the abundance of the feature measured in Glutinaria. We want to highlight clusters that distinguish glutinaria from other subgenus because glutinaria should be more distantly related to the other subgenus. 
 
 ![Network n°1: Salvia Candidissima was not assigned to the subgenus Salvia](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
 
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network n°1](https://user-images.githubusercontent.com/103578333/172026169-bd4343b3-3132-4482-9107-ba5a662a43ad.png)
 
-Here the size of nods is adjusted to put in evidence subgenus Glutinaria. 
 
 In all plants, natural products identified in abundance are caffeicacid, glutamic acid, 3-Hydroxy-6,3',4'-trimethoxyflavone, L-pyroglutamic acid, rosmarinic acid, nandrolone, glutamine, ursolic acid and manool (on the following table, natural products are highlighted by filled background color).
 
