@@ -167,7 +167,7 @@ In the network, there isn't cluster predominantly for Heterosphace subgenus comp
 
 ##### Salvia
 
-In Salvia subgenus, carnosol is the second main natural product identified. For the other subgenus this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphace: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia Interrupta and Salvia Candidissima is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. In the following cluster, the only compound name given among all nods is carnosol. 
+In Salvia subgenus, carnosol is the second main natural product identified. For the other subgenus this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphace: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia Interrupta and Salvia Candelabrum is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. In the following cluster, the only compound name given among all nods is carnosol. 
 
 ![Carnosol](https://user-images.githubusercontent.com/103578333/172056490-5b1901a6-3dcc-479e-9265-97accf4122ec.png)
 
@@ -175,7 +175,7 @@ The size of the nods is adjused based on Salvia subgenus. We can directly unders
 
 ![Rosmarinic acid](https://user-images.githubusercontent.com/103578333/172056068-7642b9af-4d60-4f8e-8787-d185f318c6d5.png)
 
-
+In this network Salvia Candelabrum is not defined as part of subgenus Salvia. When we compared the metaboloms of Salvia subgenus and Salvia candelabrum there is no clue that shows a link to a subgenus.
 
 ##### Sclarea
 
