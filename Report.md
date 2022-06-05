@@ -140,7 +140,7 @@ Link to the GNPS identification table.
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network n°1](https://user-images.githubusercontent.com/103578333/172026169-bd4343b3-3132-4482-9107-ba5a662a43ad.png)
 
-In all plants, natural products identified in abundance are caffeicacid, glutamic acid, rosmarinic acid and ursolic acid. Caffeinic acid is an important intermediate in lignin biosynthesis and rosmarinic acid that is a caffeinic acid ester and its supposed function is the defense of the plants [^5]. 
+In all plants, natural products identified in abundance are caffeicacid, glutamic acid, rosmarinic acid and ursolic acid. Caffeinic acid is an important intermediate in lignin biosynthesis and rosmarinic acid, a caffeinic acid ester, is supposed to be a defense substance [^5]. 
 
 In salvia carnosol is the second main natural product identified. For the other caldes this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphae: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia interrupta and salvia candidissima is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. 
 
