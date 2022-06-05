@@ -144,9 +144,16 @@ The size of the nodes is adjusted by cytoscape and setted proportional to the ab
 ![Legend of molecular Network n°1](https://user-images.githubusercontent.com/103578333/172026169-bd4343b3-3132-4482-9107-ba5a662a43ad.png)
 
 
-In all subgenus, same number of natural products were identify by GNPS. The difference is the abundance et the occurence. In total for all subgenus, 209 compound names were assigned based on the feature comparison. So we focus on difference in abundancy between subgenus and with cytoscape we can visualized natural product relations. 
+In all subgenus, same number of natural products are identified by GNPS. The difference is the abundance and the occurence. In total for all subgenus, 209 compound names are assigned based on the feature comparison. So, we focus on difference in abundancy between subgenus and with cytoscape we can visualize natural product links. 
 
 ![Most abundant identified natural product per subgenus](https://user-images.githubusercontent.com/103578333/172064923-6103dfa7-11e8-4c28-bbe8-8f80ff4ff1cc.png)
+
+Orange: terpenoid compounds
+Brown: steroid compounds
+Blue: flavonid compounds
+Pink: caffeic acid and related compounds
+Green: glutamine and related compounds
+Red: compounds link to lignine synthesis
 
 ##### Glutinaria
 
