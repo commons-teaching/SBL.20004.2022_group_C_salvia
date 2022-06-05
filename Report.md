@@ -148,7 +148,8 @@ In all plants, natural products identified in abundance are caffeicacid, glutami
 
 ![Caffeic acid](https://user-images.githubusercontent.com/103578333/172054720-b6b05a02-c952-4211-b751-5c4bcc167e66.png)
 
-![Rosmarinic acid](https://user-images.githubusercontent.com/103578333/172055982-61ac22fc-3c49-48da-b2ff-2f8933a3d442.png)
+![Rosmarinic acid](https://user-images.githubusercontent.com/103578333/172056068-7642b9af-4d60-4f8e-8787-d185f318c6d5.png)
+
 
 When we look at most abundant but in more specific at a subgenus than the other subgenus we can highlight some natural product (in red in the table).
 
