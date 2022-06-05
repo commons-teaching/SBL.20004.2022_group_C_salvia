@@ -197,10 +197,6 @@ As mentionned in the introduction the goal of our study is to rebuild a phylogen
 
 ![Salvia_phylogeny based on nuclear gene study](https://user-images.githubusercontent.com/103578333/172018211-3c37814d-f1e2-4c87-bcb9-5ed3ab0a7255.jpg)
 
-We should observe a difference between Glutinaria clade and Heterosphace, Salvia and Sclarea clades. 
-
-The 
-
 ## Conclusion
 
 Some conclusion that you could get out of this preliminary study.
@@ -219,26 +215,3 @@ https://www.fr.ch/energie-agriculture-et-environnement/energie/degres-jours-et-t
 DBGI project https://www.inaturalist.org/projects/digital-botanical-gardens-initiative
 
 [^5]: Petersen M, Abdullah Y, Benner J, Eberle D, Gehlen K, Hücherig S, Janiak V, Kim KH, Sander M, Weitzel C, Wolters S. Evolution of rosmarinic acid biosynthesis. Phytochemistry. 2009 Oct-Nov;70(15-16):1663-79. doi: 10.1016/j.phytochem.2009.05.010. Epub 2009 Jun 25. PMID: 19560175.
-
-[^6]: Croteau R, Felton M, Karp F, Kjonaas R. Relationship of Camphor Biosynthesis to Leaf Development in Sage (Salvia officinalis). Plant Physiol. 1981 Apr;67(4):820-4. doi: 10.1104/pp.67.4.820. PMID: 16661761; PMCID: PMC425779.
-
-[]Shouchuang Wang, Saleh Alseekh, Alisdair R. Fernie, Jie Luo. (2019). The Structure and Function of Major Plant Metabolite Modifications, Molecular Plant,  vol 12, issue 7, P899-919, https://doi.org/10.1016/j.molp.2019.06.001
-
-[]: Jorge Tiago F., Mata Ana T. & António Carla. (2016). Mass spectrometry as a quantitative tool in plant metabolomics, Phil. Trans. R. Soc. A.3742015037020150370
-http://doi.org/10.1098/rsta.2015.0370
-
-[]: Malviya, Rishabha & Bansal, Vvipin & Pal, Om & Sharma, Pramod. (2010). High performance liquid chromatography: A short review. Journal of Global Pharma Technology. 2. 22-26. 
-
-[]: Walther TC, Mann M. Mass spectrometry-based proteomics in cell biology. J Cell Biol. 2010 Aug 23;190(4):491-500. 
-https://doi.org/10.1083/jcb.201004052
-
-[]: Metabolomic data https://drive.switch.ch/index.php/s/U6Vezrq5mDVzSld
-
-[]: Filezilla https://filezilla-project.org/download.php?type=client
-
-[]: GNPS https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp
-
-
-Note that you can make a footnot like this [^1]
-
-[^1]: Ref X
