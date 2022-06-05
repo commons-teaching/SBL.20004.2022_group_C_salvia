@@ -174,6 +174,9 @@ In Sclarea subgenus,
 
 ![3-Hydroxy-6,3',4'-trimethoxyflavone](https://user-images.githubusercontent.com/103578333/172057356-ab92dcd1-47db-4fea-883a-297ac4dec035.png)
 
+![NEROLIDOL, Bisabolol](https://user-images.githubusercontent.com/103578333/172057987-35db224e-32e3-47fb-8fc4-202661a776f4.png)
+
+
 
 #### Network n° 2:
 ![Legend of molecular Network n°2](https://user-images.githubusercontent.com/103578333/172025698-53ab47b8-47dd-4c04-b0f4-ea09f2f9ed78.png)
