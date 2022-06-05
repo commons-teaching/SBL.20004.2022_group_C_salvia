@@ -140,7 +140,7 @@ Link to the GNPS identification table.
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network n°1](https://user-images.githubusercontent.com/103578333/172026169-bd4343b3-3132-4482-9107-ba5a662a43ad.png)
 
-In all plants natural products identified in abundance are caffeicacid, glutamic acid, rosmarinic acid and ursolic acid. In salvia carnosol is the second main natural product identified. For the other caldes this compund is really less abundant (glutinaria: 189^th place, heterosphae: 86^th place and sclarea: 109^th place). 
+In all plants natural products identified in abundance are caffeicacid, glutamic acid, rosmarinic acid and ursolic acid. In salvia carnosol is the second main natural product identified. For the other caldes this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphae: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). 
 
 For the first network, out of 1551 measured peaks 392 identifications have been produced by GNPS. 
 For the second network, out of ...
