@@ -140,6 +140,8 @@ Link to the GNPS identification table.
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network n°1](https://user-images.githubusercontent.com/103578333/172026169-bd4343b3-3132-4482-9107-ba5a662a43ad.png)
 
+Here the size of nods is adjusted to put in evidence subgenus Glutinaria. 
+
 In all plants, natural products identified in abundance are caffeicacid, glutamic acid, 3-Hydroxy-6,3',4'-trimethoxyflavone, L-pyroglutamic acid, rosmarinic acid, nandrolone, glutamine, ursolic acid and manool (on the following table, natural products are highlighted by filled background color).
 
 ![Most abundant identified natural product per subgenus](https://user-images.githubusercontent.com/103578333/172051861-e44fa28e-e206-4349-84c1-dc867b27d87c.png)
@@ -150,6 +152,9 @@ In all plants, natural products identified in abundance are caffeicacid, glutami
 When we look at most abundant but in more specific at a subgenus than the other subgenus we can highlight some natural product (in red in the table).
 
 In salvia subgenus, carnosol is the second main natural product identified. For the other subgenus this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphace: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia interrupta and salvia candidissima is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. 
+
+![Carnosol](https://user-images.githubusercontent.com/103578333/172054474-9120ff96-64e1-44c4-8854-218d2da242a7.png)
+
 
 In heterosphace subgenus, 
 
