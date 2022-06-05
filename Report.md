@@ -148,12 +148,12 @@ In all subgenus, same number of natural products are identified by GNPS. The dif
 
 ![Most abundant identified natural product per subgenus](https://user-images.githubusercontent.com/103578333/172064923-6103dfa7-11e8-4c28-bbe8-8f80ff4ff1cc.png)
 
-Orange: terpenoid compounds
-Brown: steroid compounds
-Blue: flavonid compounds
-Pink: caffeic acid and related compounds
-Green: glutamine and related compounds
-Red: compounds link to lignine synthesis
+- Orange: terpenoid compounds
+- Brown: steroid compounds
+- Blue: flavonid compounds
+- Pink: caffeic acid and related compounds
+- Green: glutamine and related compounds
+- Red: compounds link to lignine synthesis
 
 ##### Glutinaria
 
