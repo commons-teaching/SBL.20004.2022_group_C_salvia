@@ -186,7 +186,7 @@ One new natural products identified is the 4-AMINOBUTANOATE. For the carnosol cl
 
 ![Network2](https://user-images.githubusercontent.com/103578333/172071003-39138836-978b-4a0c-b51e-57727b11759b.png)
 
-![Legend complete](https://user-images.githubusercontent.com/103578333/172071335-1a62db8d-db49-4ac6-b16b-22fe16660eca.png)
+![Legend complete](https://user-images.githubusercontent.com/103578333/172071591-e52f83c3-e529-486c-b62c-b02fa89e90bf.png)
 ![Legend of molecular Network n°2](https://user-images.githubusercontent.com/103578333/172025698-53ab47b8-47dd-4c04-b0f4-ea09f2f9ed78.png)
 
 ## Discussion
