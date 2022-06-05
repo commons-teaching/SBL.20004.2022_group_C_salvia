@@ -188,7 +188,7 @@ In this cluster natural products of the flavone familly are identified. The most
 #### Network n° 2:
 The second network is generated based on filled gap data produced with MzMine and Salvia Candelabrum is defined as part of Salvia subgenus. In total for all subgenus, 215 compound names are assigned based on the feature comparison on 1678 features measured. This is not much more than the first network. 
 
-One new natural products identified is the 4-AMINOBUTANOATE. 
+One new natural products identified is the 4-AMINOBUTANOATE. For the carnosol cluster, no additional feature is named. For the moment it remains a cluster on its own. 
 
 ![Network2](https://user-images.githubusercontent.com/103578333/172071003-39138836-978b-4a0c-b51e-57727b11759b.png)
 
