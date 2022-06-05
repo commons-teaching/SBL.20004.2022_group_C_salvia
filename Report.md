@@ -175,6 +175,8 @@ The size of the nods is adjused based on Salvia subgenus. We can directly unders
 
 ![Rosmarinic acid](https://user-images.githubusercontent.com/103578333/172056068-7642b9af-4d60-4f8e-8787-d185f318c6d5.png)
 
+
+
 ##### Sclarea
 
 In this cluster natural products of the flavone familly are identified. The most abundant is 3-Hydroxy-6,3',4'-trimethoxyflavone : **329.1022**. Four other most abundant are apigenin-7-O-glucuronide : **447.0923**, Kaempferol 3-glucuronide : **463.0873**, luteolin 4'-O-glucoside : **449.1081** and NCGC00385624-01!(2S,3S,4S,5R,6S)-6-[2-(3,4-dihydroxyphenyl)-5-hydroxy-4-oxochromen-7-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid : **463.0873**.  
@@ -184,6 +186,8 @@ In this cluster natural products of the flavone familly are identified. The most
 ![NEROLIDOL, Bisabolol](https://user-images.githubusercontent.com/103578333/172057987-35db224e-32e3-47fb-8fc4-202661a776f4.png)
 
 #### Network n° 2:
+The second network is generated based on filled gap data produced with MzMine and Salvia Candelabrum is defined as part of Salvia subgenus. 
+
 ![Legend of molecular Network n°2](https://user-images.githubusercontent.com/103578333/172025698-53ab47b8-47dd-4c04-b0f4-ea09f2f9ed78.png)
 In the second network 159 compounds are identified.
 
@@ -191,7 +195,7 @@ In the second network 159 compounds are identified.
 
 The clusters formed by the network are interesting because they allow to quickly identify an function or an group of molecules that are associated. This is well observed with the group of caffeic acids and the group of flavonid compounds. 
 
-The problem in the presented networks is the low number of identified molecules. Moreover, none of the identified and named features is specific to a subgenus. So the assumptions can be made only on the difference of abundance between the different sub-genus.  
+The problem in the presented networks is the low number of identified molecules. Moreover, none of the identified and named features is specific to a subgenus. So the assumptions can be made only on the difference of abundance between the different subgenus.  
 
 As mentionned in the introduction the goal of our study is to rebuild a phylogenic tree based on metabolomic analysis. We rely on the study, based on nuclear gene analysis, presenting the subgenus Glutinaria more distant phylogenetically than the subgenus Heterosphace, Salvia and Scabra. 
 
