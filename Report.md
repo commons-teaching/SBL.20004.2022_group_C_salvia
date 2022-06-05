@@ -163,7 +163,7 @@ Caffeic acid and rosmarinic acid belong to the same clusters. Rosmarinic acid is
 
 ##### Heterosphace
 
-In the network, there isn't cluster predominantly for Heterosphace subgenus compound.  
+In the network, there isn't cluster predominantly for Heterosphace subgenus compound. Compared to other subgenus, two plants belong to Heterosphace while 3 plants for Glutinaria, 4 plants for Salvia and for Scabra too.
 
 ##### Salvia
 
@@ -171,7 +171,7 @@ In Salvia subgenus, carnosol is the second main natural product identified. For 
 
 ![Carnosol](https://user-images.githubusercontent.com/103578333/172056490-5b1901a6-3dcc-479e-9265-97accf4122ec.png)
 
-The size of the nods is adjused based on Salvia subgenus. We can directly understand that the composition in rosmarinic acid and caffeic acid in Salvia subgenus is similar. 
+The size of the nods is adjused based on Salvia subgenus. We can directly understand that the composition in rosmarinic acid and caffeic acid in Salvia subgenus is similar. This is a difference with Glutinaria subgenus where caffeic acid is more present than rosmarinic acid. 
 
 ![Rosmarinic acid](https://user-images.githubusercontent.com/103578333/172056068-7642b9af-4d60-4f8e-8787-d185f318c6d5.png)
 
