@@ -142,7 +142,10 @@ Link to the GNPS identification table.
 
 In all plants, natural products identified in abundance are caffeicacid, glutamic acid, rosmarinic acid and ursolic acid. Caffeinic acid is an important intermediate in lignin biosynthesis and rosmarinic acid, a caffeinic acid ester, is supposed to be a defense substance [^5]. 
 
-In salvia carnosol is the second main natural product identified. For the other caldes this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphae: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia interrupta and salvia candidissima is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. 
+![Most abundant identified natural product per subgenus](https://user-images.githubusercontent.com/103578333/172051274-aa5b0b53-ec2f-4026-9dc1-9742ddcb10fb.png)
+
+
+In salvia carnosol is the second main natural product identified. For the other caldes this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphace: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia interrupta and salvia candidissima is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. 
 
 For the first network, out of 1551 measured peaks 392 identifications have been produced by GNPS. 
 For the second network, out of ...
@@ -156,7 +159,7 @@ In the second network 159 compounds are identified.
 
 ![Salvia_phylogeny based on nuclear gene study](https://user-images.githubusercontent.com/103578333/172018211-3c37814d-f1e2-4c87-bcb9-5ed3ab0a7255.jpg)
 
-We should observe a difference between Glutinaria clade and Heterosphae, Salvia and Sclarea clades. 
+We should observe a difference between Glutinaria clade and Heterosphace, Salvia and Sclarea clades. 
 
 
 ## Conclusion
