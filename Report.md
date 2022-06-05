@@ -191,7 +191,7 @@ In the second network 159 compounds are identified.
 
 The clusters formed by the network are interesting because they allow to quickly identify an function or an group of molecules that are associated. This is well observed with the group of caffeic acids and the group of flavonid compounds. 
 
-The problem in the presented networks is the low number of identified molecules. Moreover, none of the identified and named features is specific to a sub-genus. So the assumptions can be made only on the difference of abundance between the different sub-genus.  
+The problem in the presented networks is the low number of identified molecules. Moreover, none of the identified and named features is specific to a subgenus. So the assumptions can be made only on the difference of abundance between the different sub-genus.  
 
 As mentionned in the introduction the goal of our study is to rebuild a phylogenis based on metabolomic analysis. We rely on the study, based on nuclear gene study, presenting the subgenus Glutinaria more distant phylogenetically than the subgenus Heterosphace, Salvia and Scabra. 
 
