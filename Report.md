@@ -146,18 +146,15 @@ The size of the nodes is adjusted by cytoscape and setted proportional to the ab
 
 In all plants, natural products identified in abundance are caffeicacid, glutamic acid, 3-Hydroxy-6,3',4'-trimethoxyflavone, L-pyroglutamic acid, rosmarinic acid, nandrolone, glutamine, ursolic acid and manool (on the following table, natural products are highlighted by filled background color).
 
-![Most abundant identified natural product per subgenus](https://user-images.githubusercontent.com/103578333/172051861-e44fa28e-e206-4349-84c1-dc867b27d87c.png)
-
-Caffeic acid and rosmarinic acid belong to the same clusters. Rosmarinic acid is an ester of caffeic acid and 3,4-dihydroxyphenyllactic acid [5]. 
-
-![Caffeic acid and rosmarinic acid](https://user-images.githubusercontent.com/103578333/172063743-f0af1564-895a-4c6c-9543-84c0203b4923.png)
-
-When we look at most abundant but in more specific at a subgenus than the other subgenus we can highlight some natural product (in red in the table).
+![Most abundant identified natural product per subgenus](https://user-images.githubusercontent.com/103578333/172064923-6103dfa7-11e8-4c28-bbe8-8f80ff4ff1cc.png)
 
 ##### Glutinaria
 
 In Glutinaria subgenus, 
 
+Caffeic acid and rosmarinic acid belong to the same clusters. Rosmarinic acid is an ester of caffeic acid and 3,4-dihydroxyphenyllactic acid [5]. Here we can see directly that in glutinaria subgenus the composition in caffeic acid is higher than the composition in romarinic acid. 
+
+![Caffeic acid and rosmarinic acid](https://user-images.githubusercontent.com/103578333/172063743-f0af1564-895a-4c6c-9543-84c0203b4923.png)
 
 ##### Heterosphace
 
