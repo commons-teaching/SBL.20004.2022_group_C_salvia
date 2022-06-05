@@ -148,17 +148,21 @@ In all plants, natural products identified in abundance are caffeicacid, glutami
 
 ![Caffeic acid](https://user-images.githubusercontent.com/103578333/172054720-b6b05a02-c952-4211-b751-5c4bcc167e66.png)
 
-![Rosmarinic acid](https://user-images.githubusercontent.com/103578333/172056068-7642b9af-4d60-4f8e-8787-d185f318c6d5.png)
-
-
 When we look at most abundant but in more specific at a subgenus than the other subgenus we can highlight some natural product (in red in the table).
+
+##### Salvia
 
 In salvia subgenus, carnosol is the second main natural product identified. For the other subgenus this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphace: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia interrupta and salvia candidissima is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. 
 
 ![Carnosol](https://user-images.githubusercontent.com/103578333/172054474-9120ff96-64e1-44c4-8854-218d2da242a7.png)
 
+![Rosmarinic acid](https://user-images.githubusercontent.com/103578333/172056068-7642b9af-4d60-4f8e-8787-d185f318c6d5.png)
+
+##### Heterosphace
 
 In heterosphace subgenus, 
+
+##### Sclarea
 
 In Sclarea subgenus, 
 
