@@ -94,7 +94,7 @@ Plants observations geo-localisation are avalable on the INaturalist website (DB
 
 ### Liquid chromatogrphy-Mass spectrometry Analysis
 
-High performance liquid chromatography quadrupole orbitrap mass spectrometry (HPLC-QORB-MS) estimation of metabolite contents was carried out on a Thermo Ultimate 3000 RS (Thermo Fischer Scientific, Waltham, MA, USA)coupled to a Thermo Q Exactive PLUS Qorbitrap mass spectrometer. Separations were performed on a C18 column, , with mobile phase A consisting of 0.1% (v/v) FA in water and mobile phase B consisting of 0.1% (v/v) FA in acetonitrile (MUST BE CHECKED). The samples (2 µL) were injected, and a linear gradient from 15% to 70% phase B in phase A was used for 8 min to separate all main compounds. The flow rate was 0.3 mL/min, and the column was held at 30 ◦C. Mass spectra were acquired in positive-ion mode over a mass range from m/z 100 to 1500 with 5 Hz frequency Ultrapure nitrogen was used as drying and nebulizer gas and argon was used as collision gas. The collision energy was set automatically from 15 to 75 eV, depending on the m/z of the fragmented ion. Operating parameters of the ESI ion source were as follows: capillary voltage 3 kV, dry gas flow 6 L/min, dry gas temperature 200 ◦C, nebulizer pressure 0.7 bar, collision radio frequency 700.0 V, transfer time 100.0 µs, and pre pulse storage 7.0 µs.
+Chromatographic separation was performed on a VANQUISH HORIZON UPLC system (Thermo Scientific, Bremen, Germany) interfaced to a Q-Exactive Plus mass spectrometer (Thermo Scientific, Bremen, Germany), using a heated electrospray ionization (HESI-II) source. Thermo Scientific Xcalibur 3.1 software was used for instrument control. The LC conditions were as follows: column, Waters BEH C18 100 × 2.1 mm, 1.7 μm; mobile phase, (A) water with 0.1% formic acid; (B) acetonitrile with 0.1% formic acid; flow rate, 600 μl·min−1; injection volume, 6 μl; gradient, linear gradient of 5–100% B over 12 min and isocratic at 100% B for 1 min. The optimized HESI-II parameters were as follows: source voltage, 3.5 kV (pos); sheath gas flow rate (N2), 55 units; auxiliary gas flow rate, 15 units; spare gas flow rate, 3.0; capillary temperature, 350.00°C, S-Lens RF Level, 45. The mass analyzer was calibrated using a mixture of caffeine, methionine–arginine–phenylalanine–alanine–acetate (MRFA), sodium dodecyl sulfate, sodium taurocholate, and Ultramark 1,621 in an acetonitrile/methanol/water solution containing 1% formic acid by direct injection. The data-dependent MS/MS events were performed on the three most intense ions detected in full scan MS (Top3 experiment). The MS/MS isolation window width was 1 Da, and the stepped normalized collision energy (NCE) was set to 15, 30 and 45 units. In data-dependent MS/MS experiments, full scans were acquired at a resolution of 35,000 FWHM (at m/z 200) and MS/MS scans at 17,500 FWHM both with an automatically determined maximum injection time. After being acquired in a MS/MS scan, precursor ions were placed in a dynamic exclusion list for 2.0 s.
 
 
 ### Data analysis
@@ -118,20 +118,12 @@ The output files were visualise using [cytoscape](https://cytoscape.org/) softwa
 
 ### MS1
 
-features could you clean in your final peak list ?
-
-Here is the link to the final feature list for the first network: [link](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C_quant.csv)
-Here is the link to the second feature list for the second network: 
-
 ### Molecular Network
 
 Two molecular networks were performed by GNPS:
 - [GNPS job n°1](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a): without gap filled and Salvia Candelabrum isn't assigned to Salvia subgenus.
 - [GNPS job n°2](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=10d92d779bd741d09af035b2e89d7bad): with gap filled and Salvia Candelabrum is assigned to Salvia subgenus.
 
-Link to the GNPS identification table:
-- [Table 1](https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=d9eb8151a9f5459dad892bb449ccc95a&view=view_all_annotations_DB)
-- [Table 2](https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=10d92d779bd741d09af035b2e89d7bad&view=view_all_annotations_DB)
 #### Network n° 1:
 
 The size of the nodes is adjusted by cytoscape and setted proportional to the abundance of the feature measured in Glutinaria. We want to highlight clusters that distinguish glutinaria from other subgenus because glutinaria should be more distantly related to the other subgenus. 
@@ -195,7 +187,10 @@ One new natural products identified is the 4-AMINOBUTANOATE. For the carnosol cl
 
 ## Discussion
 
-The clusters formed by the network are interesting because they allow to quickly identify an function or an group of molecules that are associated. This is well observed with the group of caffeic acids and the group of flavonid compounds. 
+
+
+
+The clusters formed by the network are interesting because they allow to quickly identify a function or a group of molecules that are associated. This is true with the group of caffeic acids and the group of flavonid compounds. 
 
 The problem in the presented networks is the low number of identified molecules. Moreover, none of the identified and named features is specific to a subgenus. So the assumptions can be made only on the difference of abundance between the different subgenus.  
 
