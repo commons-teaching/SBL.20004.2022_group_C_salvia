@@ -148,25 +148,25 @@ In all subgenus, same number of natural products are identified by GNPS. The dif
 
 ##### Glutinaria
 
-Caffeic acid and rosmarinic acid belong to the same clusters. Rosmarinic acid is an ester of caffeic acid and 3,4-dihydroxyphenyllactic acid [5]. Here we can see directly that in glutinaria subgenus the composition in caffeic acid is higher than the composition in romarinic acid. It's confirm what we see in piechart.
+Caffeic acid and rosmarinic acid belong to the same clusters. Rosmarinic acid is an ester of caffeic acid and 3,4-dihydroxyphenyllactic acid [5]. In the network build by cytoscape, we can also put in evidence that the composition in caffeic acid is higher than the composition in romarinic acid.
 
 ![Caffeic acid and rosmarinic acid](https://user-images.githubusercontent.com/103578333/172063743-f0af1564-895a-4c6c-9543-84c0203b4923.png)
 
 ##### Heterosphace
 
-In the network, there isn't cluster predominantly for Heterosphace subgenus compound. Compared to other subgenus, two plants belong to Heterosphace while 3 plants for Glutinaria, 4 plants for Salvia and for Scabra too.
+In the network, there isn't cluster predominantly for the compounds of Heterosphace subgenus. Compared to other subgenus, two plants belong to Heterosphace while 3 plants to Glutinaria, 4 plants to both of them Salvia and Scabra.
 
 ##### Salvia
 
-In Salvia subgenus, carnosol is the second main natural product identified. For the other subgenus this compund is really less abundant (glutinaria: 189<sup>th</sup> place, heterosphace: 86<sup>th</sup> place and sclarea: 109<sup>th</sup> place). When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia Interrupta and Salvia Candelabrum is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. In the following cluster, the only compound name given among all nods is carnosol. 
+In Salvia subgenus, carnosol is the second main natural product identified. For the other subgenus this compund is really less abundant. When we look closer into data, we can observed that carnosol is for all three Salvia Officinalis (2<sup>th</sup> place) but for Salvia Interrupta and Salvia Candelabrum is identified but less present. Therefore carnosol seems to be more specific to Salvia Officinalis than to subgenus Salvia. In the following cluster, the only compound identified and named among all nods is carnosol. 
 
 ![Carnosol](https://user-images.githubusercontent.com/103578333/172056490-5b1901a6-3dcc-479e-9265-97accf4122ec.png)
 
-The size of the nods is adjused based on Salvia subgenus. We can directly understand that the composition in rosmarinic acid and caffeic acid in Salvia subgenus is similar. This is a difference with Glutinaria subgenus where caffeic acid is more present than rosmarinic acid. 
+The size of nods is adjused based on Salvia subgenus. We can directly understand that the composition in rosmarinic acid and caffeic acid in Salvia subgenus is similar. This is a difference with Glutinaria subgenus where caffeic acid is more present than rosmarinic acid. 
 
 ![Rosmarinic acid](https://user-images.githubusercontent.com/103578333/172056068-7642b9af-4d60-4f8e-8787-d185f318c6d5.png)
 
-In this network Salvia Candelabrum is not defined as part of subgenus Salvia. When we compared the metaboloms of Salvia subgenus and Salvia candelabrum there is no clue that shows a link to a subgenus.
+In the network n°1, Salvia Candelabrum is not defined as part of subgenus Salvia. When we compared the metaboloms of Salvia subgenus and Salvia candelabrum there is no clue that shows a link to a specific subgenus.
 
 ##### Sclarea
 
