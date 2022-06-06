@@ -145,6 +145,7 @@ In all subgenus, same number of natural products are identified by GNPS. The dif
 
 ![Flavonoid](https://user-images.githubusercontent.com/103578333/172142508-74b04b3f-bcd0-4b32-82d2-d472ae9524bc.png)
 
+![Carnosol](https://user-images.githubusercontent.com/103578333/172146670-5a36ed7e-ac3f-49aa-95bd-566dcbc6d523.png)
 
 ##### Glutinaria
 
