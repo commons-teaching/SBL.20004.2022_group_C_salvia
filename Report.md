@@ -143,9 +143,8 @@ In all subgenus, same number of natural products are identified by GNPS. The dif
 
 ![Glutamine and related compounds](https://user-images.githubusercontent.com/103578333/172141905-2706ae6e-aa4d-4554-a7e5-ff1e53d54112.png)
 
-![Flavonoid](https://user-images.githubusercontent.com/103578333/172142508-74b04b3f-bcd0-4b32-82d2-d472ae9524bc.png)
+![Carnosol, Ursolic acid and Flavonoid acid](https://user-images.githubusercontent.com/103578333/172147499-25f07e48-d4ad-4ae6-8511-9121cfb1f45b.png)
 
-![Carnosol](https://user-images.githubusercontent.com/103578333/172146670-5a36ed7e-ac3f-49aa-95bd-566dcbc6d523.png)
 
 ##### Glutinaria
 
