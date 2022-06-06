@@ -89,20 +89,20 @@ Plants observations geo-localisation are avalable on the INaturalist website (DB
 
 ### Sample preparation for qualitative and quantitative analysis
 
-50 g  ± 0.5 g of lyophilized plant material was extracted with 170 µL MeOH/H2O/formic acid (80:20:0.1) in a (------------) 30 Hz at RT° for 3min. The supernatant was collected in to vials and stored at -80° prior MS-loading.
+50 g  ± 0.5 g of lyophilized plant material was extracted with 170 µL MeOH/H2O/formic acid (80:20:0.1) with a Mixer mill MM 400 (Manufacturer Retsch) 30 Hz for 3 min at RT°. The supernatant was collected in to vials and stored at -80° prior MS-loading.
 
 
 ### Liquid chromatogrphy-Mass spectrometry Analysis
 
-High performance liquid chromatography quadrupole orbitrap mass spectrometry (HPLC-QORB-MS) estimation of metabolite contents was carried out on a Thermo Ultimate 3000 RS (Thermo Fischer Scientific, Waltham, MA, USA)coupled to a Thermo (----) Qorbitrap mass spectrometer. Separations were performed on a C18 column, , with mobile phase A consisting of 0.1% (v/v) FA in water and mobile phase B consisting of 0.1% (v/v) FA in acetonitrile (MUST BE CHECKED). . The samples (2 µL) were injected, and a linear gradient from 15% to 70% phase B in phase A was used for 8 min to separate all main compounds. The flow rate was 0.3 mL/min, and the column was held at 30 ◦C. Mass spectra were acquired in positive-ion mode over a mass range from m/z 100 to 1500 with 5 Hz frequency Ultrapure nitrogen was used as drying and nebulizer gas and argon was used as collision gas. The collision energy was set automatically from 15 to 75 eV, depending on the m/z of the fragmented ion. Operating parameters of the ESI ion source were as follows: capillary voltage 3 kV, dry gas flow 6 L/min, dry gas temperature 200 ◦C, nebulizer pressure 0.7 bar, collision radio frequency 700.0 V, transfer time 100.0 µs, and pre pulse storage 7.0 µs.
+High performance liquid chromatography quadrupole orbitrap mass spectrometry (HPLC-QORB-MS) estimation of metabolite contents was carried out on a Thermo Ultimate 3000 RS (Thermo Fischer Scientific, Waltham, MA, USA)coupled to a Thermo Q Exactive PLUS Qorbitrap mass spectrometer. Separations were performed on a C18 column, , with mobile phase A consisting of 0.1% (v/v) FA in water and mobile phase B consisting of 0.1% (v/v) FA in acetonitrile (MUST BE CHECKED). The samples (2 µL) were injected, and a linear gradient from 15% to 70% phase B in phase A was used for 8 min to separate all main compounds. The flow rate was 0.3 mL/min, and the column was held at 30 ◦C. Mass spectra were acquired in positive-ion mode over a mass range from m/z 100 to 1500 with 5 Hz frequency Ultrapure nitrogen was used as drying and nebulizer gas and argon was used as collision gas. The collision energy was set automatically from 15 to 75 eV, depending on the m/z of the fragmented ion. Operating parameters of the ESI ion source were as follows: capillary voltage 3 kV, dry gas flow 6 L/min, dry gas temperature 200 ◦C, nebulizer pressure 0.7 bar, collision radio frequency 700.0 V, transfer time 100.0 µs, and pre pulse storage 7.0 µs.
 
 
 ### Data analysis
 
 The [Proteowizard ](https://proteowizard.sourceforge.io/) software was used to convert data raw files in mzML extension file and [MzMine 2.53](https://github.com/mzmine/mzmine2/releases) software was used to preprocess the raw HPLC-QORB-MS data for filtering peaks and get rid off contamination such as plastic coming from laboratory tools. After centroiding and isotopes groupping of the picks, GNPS was used to developpe a feature networking (advance analysis tools) to quantify molecules and reduced molecule redundancy.
-The following GNPS setting were used:
 
-#### Molecular Networking and Spectral Library Search
+The following GNPS setting were used: **Molecular Networking and Spectral Library Search**
+
 A molecular network was created with the Feature-Based Molecular Networking (FBMN) workflow (Nothias L-F, Petras D, Schmid R et al. Nature Methods 17, 905–908 (2020)) on GNPS (https://gnps.ucsd.edu, Wang M et al. Nat. Biotech. 2016). The mass spectrometry data were first processed with MZMINE2 (cite accordingly, see below in the Citations section) and the results were exported to GNPS for FBMN analysis. The precursor ion mass tolerance was set to 0.02 Da and the MS/MS fragment ion tolerance to 0.02 Da. A molecular network was then created where edges were filtered to have a cosine score above 0.7 and more than 6 matched peaks. Further, edges between two nodes were kept in the network if and only if each of the nodes appeared in each others respective top 10 most similar nodes. Finally, the maximum size of a molecular family was set to 100, and the lowest scoring edges were removed from molecular families until the molecular family size was below this threshold. The spectra in the network were then searched against GNPS spectral libraries (Cite Wang M, et al. Nature Biotech. 2016 and Horai, H. et al. J. Mass Spectrom. 45, 703-714 2010). The library spectra were filtered in the same manner as the input data. All matches kept between network spectra and library spectra were required to have a score above 0.7 and at least 6 matched peaks. The DEREPLICATOR was used to annotate MS/MS spectra (Mohimani, H. et al. Nat. Commun. 9, 4035 (2018)). The molecular networks were visualised using Cytoscape software (Shannon, P. et al. Genome Res. 13, 2498-2504 (2003)).
 
 #### Data Deposition and Job Accessibility
@@ -116,12 +116,12 @@ The output files were visualise using [cytoscape](https://cytoscape.org/) softwa
 
 ## Results
 
-
 ### MS1
 
 features could you clean in your final peak list ?
 
-Here is the link to the final feature list: [link1]https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C_quant.csv
+Here is the link to the final feature list for the first network: [link]https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C_quant.csv
+Here is the link to the second feature list for the second network: 
 
 ### Molecular Network
 
