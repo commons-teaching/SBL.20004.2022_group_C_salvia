@@ -120,7 +120,7 @@ The output files were visualise using [cytoscape](https://cytoscape.org/) softwa
 
 features could you clean in your final peak list ?
 
-Here is the link to the final feature list for the first network: [link]https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C_quant.csv
+Here is the link to the final feature list for the first network: [link](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C_quant.csv)
 Here is the link to the second feature list for the second network: 
 
 ### Molecular Network
