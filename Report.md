@@ -129,6 +129,9 @@ Two molecular networks were performed by GNPS:
 - [GNPS job n°1](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d9eb8151a9f5459dad892bb449ccc95a): without gap filled and Salvia Candelabrum isn't assigned to Salvia subgenus.
 - [GNPS job n°2](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=10d92d779bd741d09af035b2e89d7bad): with gap filled and Salvia Candelabrum is assigned to Salvia subgenus.
 
+Link to the GNPS identification table:
+- [Table 1](https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=d9eb8151a9f5459dad892bb449ccc95a&view=view_all_annotations_DB)
+- [Table 2](https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=10d92d779bd741d09af035b2e89d7bad&view=view_all_annotations_DB)
 #### Network n° 1:
 
 The size of the nodes is adjusted by cytoscape and setted proportional to the abundance of the feature measured in Glutinaria. We want to highlight clusters that distinguish glutinaria from other subgenus because glutinaria should be more distantly related to the other subgenus. 
