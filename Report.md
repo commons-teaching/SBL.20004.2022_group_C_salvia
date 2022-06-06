@@ -119,8 +119,9 @@ The output files were visualise using [cytoscape](https://cytoscape.org/) softwa
 
 ### MS1
 
-How many features could you clean in your final peak list ?
-A link to the final feature list (uploaded to github).
+features could you clean in your final peak list ?
+
+Here is the link to the final feature list: [link1]https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/group_C_quant.csv
 
 ### Molecular Network
 
