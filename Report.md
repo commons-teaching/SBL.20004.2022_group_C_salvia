@@ -197,6 +197,7 @@ The problem in the presented networks is the low number of identified molecules.
 As mentionned in the introduction the goal of our study is to rebuild a phylogenic tree based on metabolomic analysis. We rely on the study, based on nuclear gene analysis, presenting the subgenus Glutinaria more distant phylogenetically than the subgenus Heterosphace, Salvia and Scabra. 
 
 ![Salvia_phylogeny based on nuclear gene study](https://user-images.githubusercontent.com/103578333/172018211-3c37814d-f1e2-4c87-bcb9-5ed3ab0a7255.jpg)
+[2]
 
 ## Conclusion
 
