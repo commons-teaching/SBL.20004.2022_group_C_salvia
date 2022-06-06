@@ -137,21 +137,16 @@ The size of the nodes is adjusted by cytoscape and setted proportional to the ab
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network n°1](https://user-images.githubusercontent.com/103578333/172026169-bd4343b3-3132-4482-9107-ba5a662a43ad.png)
 
+In all subgenus, same number of natural products are identified by GNPS. The difference is the abundance and the occurence. In total for all subgenus, 209 compound names are assigned based on the feature comparison on 1540 features measured. So, we take into account the higher pic for one interesting and identified compound and we compare each subgenus with a piechart. 
 
-In all subgenus, same number of natural products are identified by GNPS. The difference is the abundance and the occurence. In total for all subgenus, 209 compound names are assigned based on the feature comparison on 1540 features measured. So, we focus on difference in abundancy between subgenus and with cytoscape we can visualize natural product links. 
+![Caffeic acid and related compounds](https://user-images.githubusercontent.com/103578333/172140623-ef942c73-2016-4a4b-8193-31a1f4df2bc7.png)
 
-![Most abundant identified natural product per subgenus](https://user-images.githubusercontent.com/103578333/172064923-6103dfa7-11e8-4c28-bbe8-8f80ff4ff1cc.png)
+![Glutamine and related compounds](https://user-images.githubusercontent.com/103578333/172141905-2706ae6e-aa4d-4554-a7e5-ff1e53d54112.png)
 
-- Orange: terpenoid compounds
-- Brown: steroid compounds
-- Blue: flavonid compounds
-- Pink: caffeic acid and related compounds
-- Green: glutamine and related compounds
-- Red: compounds link to lignin synthesis
 
 ##### Glutinaria
 
-Caffeic acid and rosmarinic acid belong to the same clusters. Rosmarinic acid is an ester of caffeic acid and 3,4-dihydroxyphenyllactic acid [5]. Here we can see directly that in glutinaria subgenus the composition in caffeic acid is higher than the composition in romarinic acid. 
+Caffeic acid and rosmarinic acid belong to the same clusters. Rosmarinic acid is an ester of caffeic acid and 3,4-dihydroxyphenyllactic acid [5]. Here we can see directly that in glutinaria subgenus the composition in caffeic acid is higher than the composition in romarinic acid. It's confirm what we see in piechart.
 
 ![Caffeic acid and rosmarinic acid](https://user-images.githubusercontent.com/103578333/172063743-f0af1564-895a-4c6c-9543-84c0203b4923.png)
 
