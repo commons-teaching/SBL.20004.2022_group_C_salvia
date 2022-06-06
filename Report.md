@@ -130,7 +130,7 @@ Link to the GNPS identification table:
 
 #### Network n° 1:
 
-The size of the nodes is adjusted by cytoscape and setted proportional to the abundance of the feature measured in Glutinaria. We want to highlight clusters that distinguish glutinaria from other subgenus because glutinaria should be more distantly related to the other subgenus. 
+The size of the nodes is adjusted by cytoscape and setted proportional to the abundance of the feature measured in Glutinaria. We want to highlight clusters that distinguish Glutinaria from other subgenus because Glutinaria should be more distantly related to the other subgenus. 
 
 ![Network n°1: Salvia Candidissima was not assigned to the subgenus Salvia](https://user-images.githubusercontent.com/103578333/169245706-b03ae6b5-0934-4586-b0e0-d0599b9a10bb.png)
 
