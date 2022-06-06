@@ -137,7 +137,7 @@ The size of the nodes is adjusted by cytoscape and setted proportional to the ab
 ![Legend complete](https://user-images.githubusercontent.com/103578333/170486273-529d4e4a-ade3-4f0f-875d-5882dd685eb1.png)
 ![Legend of molecular Network n°1](https://user-images.githubusercontent.com/103578333/172026169-bd4343b3-3132-4482-9107-ba5a662a43ad.png)
 
-In all subgenus, same number of natural products are identified by GNPS. The difference is the abundance and the occurence. In total for all subgenus, 209 compound names are assigned based on the feature comparison on 1540 features measured. So, we take into account the higher pic for one interesting and identified compound and we compare each subgenus with a piechart ([Excel file link](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/GroupC_Network1-Salvia.xlsx)).
+From cytoscape, we have extracted data table and looked precisely at interesting compounds. Same compound_name are attibuted at several features. We take into account the higher and we have compared in a piechart subgenus ([Excel file link](https://github.com/commons-teaching/SBL.20004.2022_group_C_salvia/blob/main/GroupC_Network1-Salvia.xlsx)).
 
 ![Caffeic acid and related compounds](https://user-images.githubusercontent.com/103578333/172140623-ef942c73-2016-4a4b-8193-31a1f4df2bc7.png)
 
@@ -177,9 +177,10 @@ In this cluster natural products of the flavone familly are identified. The most
 ![NEROLIDOL, Bisabolol](https://user-images.githubusercontent.com/103578333/172057987-35db224e-32e3-47fb-8fc4-202661a776f4.png)
 
 #### Network n° 2:
-The second network is generated based on filled gap data produced with MzMine and Salvia Candelabrum is defined as part of Salvia subgenus. In total for all subgenus, 215 compound names are assigned based on the feature comparison on 1678 features measured. This is not much more than the first network. 
+The second network is generated based on filled gap data produced with MzMine and Salvia Candelabrum is defined as part of Salvia subgenus. We have more features than in the first network because parameters were not identical to the previous network. 
 
-One new natural products identified is the 4-AMINOBUTANOATE. For the carnosol cluster, no additional feature is named. For the moment it remains a cluster on its own. 
+![PCA](https://user-images.githubusercontent.com/103578333/172186903-cc394fc8-f623-43a7-9794-0e699b570737.png)
+
 
 ![Network2](https://user-images.githubusercontent.com/103578333/172071003-39138836-978b-4a0c-b51e-57727b11759b.png)
 
@@ -193,16 +194,16 @@ One new natural products identified is the 4-AMINOBUTANOATE. For the carnosol cl
 
 The clusters formed by the network are interesting because they allow to quickly identify a function or a group of molecules that are associated. This is true with the group of caffeic acids and the group of flavonid compounds. 
 
-The problem in the presented networks is the low number of identified molecules. Moreover, none of the identified and named features is specific to a subgenus. So the assumptions can be made only on the difference of abundance between the different subgenus.  
+The problem with network n°1 and n°2 is the low number of identified molecules. Moreover, none of the identified and named features is specific to a subgenus. So the assumptions can be made only on the difference of abundance between the different subgenus.  
 
-As mentionned in the introduction the goal of our study is to rebuild a phylogenic tree based on metabolomic analysis. We rely on the study, based on nuclear gene analysis, presenting the subgenus Glutinaria more distant phylogenetically than the subgenus Heterosphace, Salvia and Scabra. 
+As mentionned in the introduction the goal of our work is to rebuild a phylogenic tree based on metabolomic analysis. We rely it on study  [2], based on nuclear gene analysis, presenting the subgenus Glutinaria more distant phylogenetically, than the subgenus Heterosphace, Salvia and Scabra. 
 
 ![Salvia_phylogeny based on nuclear gene study](https://user-images.githubusercontent.com/103578333/172018211-3c37814d-f1e2-4c87-bcb9-5ed3ab0a7255.jpg)
 [2]
 
 ## Conclusion
 
-With this preliminary study it's difficult to build a phylogenic tree because identified and named features are few. 
+
 
 # References
 
