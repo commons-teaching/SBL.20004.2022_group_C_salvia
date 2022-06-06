@@ -143,6 +143,8 @@ In all subgenus, same number of natural products are identified by GNPS. The dif
 
 ![Glutamine and related compounds](https://user-images.githubusercontent.com/103578333/172141905-2706ae6e-aa4d-4554-a7e5-ff1e53d54112.png)
 
+![Flavonoid](https://user-images.githubusercontent.com/103578333/172142508-74b04b3f-bcd0-4b32-82d2-d472ae9524bc.png)
+
 
 ##### Glutinaria
 
