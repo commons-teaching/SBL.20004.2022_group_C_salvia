@@ -139,6 +139,8 @@ Link to the GNPS identification table:
 - [Table list job](https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=10d92d779bd741d09af035b2e89d7bad&view=view_all_annotations_DB)
 
 ![Network](https://user-images.githubusercontent.com/103578179/172425883-1ce00612-1896-4d17-9f14-bdea81af399e.png)
+![Legend complete](https://user-images.githubusercontent.com/103578333/172071591-e52f83c3-e529-486c-b62c-b02fa89e90bf.png)
+![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/172025698-53ab47b8-47dd-4c04-b0f4-ea09f2f9ed78.png)
 
 The two subnetworks correspond to features mostly found amongst the Salvia clade, which also appeared to cluster well in the hierchical clustering. The 1st subnetwork comprises 2 different annotated compounds, both correspnding to triterpens namely Sumaresinolic acid and Asiatic acid. Although other nodes from the graph were not annotated, the small differences in parent masses could suggest that this network comprises of other triterpens with a minimum of 30 carbon atoms.
 
