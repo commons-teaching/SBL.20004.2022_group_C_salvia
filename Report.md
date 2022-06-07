@@ -27,6 +27,9 @@ Therefore we performed a MS-metabolome analysis of several Salvia strains cultiv
 
 Among the genus Salvia from the lamiaceae family, we collected 14 plants of 11 different species in the 15 section of the botanical garden. They represent 3 subgenus (Glutinaria, Salvia and Sclarea) of the 11 commonly accepted (1. Audibertia, 2. Calosphace, 3. Dorystaechas, 4. Glutinaria, 5. Heterosphace, 6. Meriandra, 7. Peroskia, 8. Rosmarinus, 9. Salvia, 10. Sclarea, 11. Zhumeria). Heterosphae is not clearly defined as a subgenus but its heritage differs as a result of geographical events. A genomic study using next-generation sequencing on which we base our comparison, defined Heterosphae as a subgenus [^2]. To simplify and do easier comparisons we will use the same nomenclature. 
 
+**Salvia_phylogeny based on nuclear gene study**
+![Salvia_phylogeny based on nuclear gene study](https://user-images.githubusercontent.com/103578333/172018211-3c37814d-f1e2-4c87-bcb9-5ed3ab0a7255.jpg)
+
 Mass spectrometry is a powerful analytical system defined by three components: 
 
 - Ion source: Convert the analytes into ions in the gaseous state.
