@@ -116,12 +116,10 @@ The output files were visualise using [cytoscape](https://cytoscape.org/) softwa
 
 ## Results
 
-###Overview:
-Cleaned peak etc.
-Total annotations
+![MZmind_treated_data](https://user-images.githubusercontent.com/103578333/172430700-65edce29-a4c9-4c0b-bd42-0b013745d736.png)
 
 ### MS1
-(remove?)
+
 
 ### Samples clustering based on all features:
 Gapfilled data was used to perform hierchical clustering. Generated dendrograms were compared to the phylogenetic analyses reported in the litterature.
@@ -148,7 +146,10 @@ Link to the GNPS identification table:
 
 ![Network](https://user-images.githubusercontent.com/103578179/172425883-1ce00612-1896-4d17-9f14-bdea81af399e.png)
 
-![image](https://user-images.githubusercontent.com/103578179/172427265-c73896b0-3af5-4a9a-91e2-98a8bb3afb24.png)
+![Carnosol_Cluster](https://user-images.githubusercontent.com/103578179/172427265-c73896b0-3af5-4a9a-91e2-98a8bb3afb24.png)
+
+![Carnosol_ inside_Salvia](https://user-images.githubusercontent.com/103578333/172431088-6b0ab448-54d6-4db8-8828-43766c45f9a5.png)
+
 
 ![Terpene_Cluster](https://user-images.githubusercontent.com/103578179/172426994-16e3a344-71bc-4997-a57f-02b00c7a462f.png)
 
