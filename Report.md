@@ -150,14 +150,14 @@ The cluster of sumaresinolic acid seems to be interesting because this compound 
 
 ![Image Hierchical clustering](https://user-images.githubusercontent.com/103578179/172424154-a70e4c41-2713-49a7-bc7c-ada24e2a32fe.png)
 
-The PCA is another way to analysis the distance and relation between subgenus. Here we can see that Salvia and Sclarea are separated from each other. Compared to the study it's suprizing but ... 
+The PCA is another way to analysis the distance and relation between subgenus. Here we can see that Salvia and Sclarea are separated from each other. Compared to the study it's suprizing but we have not enougth evidence to explain a reason.  
 
 ![PCA](https://user-images.githubusercontent.com/103578179/172426464-65f8f503-32cd-4a2d-a1f1-bfbad107a09b.png)
 
 
 ## Conclusion
 
-The analysis of the metaboloms were difficults because 65-210 features were identified. We can see similarities between our work and the study used as comparison but we cannot pointed specific cluster explaining the phylogeny. 
+The analysis of the metaboloms were difficults because more or less 150 features, after duplicates remove, were identified per subgenus. We can see similarities between our work and the study used as comparison but we cannot pointed specific cluster explaining the phylogeny. 
 
 # References
 
