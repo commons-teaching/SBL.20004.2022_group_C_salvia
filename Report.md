@@ -152,11 +152,11 @@ At right, the 2<sup>nd</sup>  cluster belongs to sumaresinolic acid. It seems to
 To do this piechart, we have extracted data table from cytoscape and looked precisely at a interesting compound such as Carnosol inside Salvia subgenus. We observed that we get several hits for same compound_name because several features are associated to one compound_name for each plant. So we take into account the higher one and we compare each plants inside subgenus Salvia. We can conclude that Carnosol is more specific to Salvia officinalis than to Salvia subgenus. 
 
 ### Samples clustering based on all features:
-Gapfilled data was used to perform hierchical clustering. Generated dendrograms were compared to the phylogenetic analyses reported in the already mentionned study [2].
+Gapfilled data was used to perform hierchical clustering. Generated dendrograms were compared to the phylogenetic analyses reported in the already mentionned study [2]. We get a nice clustering for all plants from Salvia subgenus except for Salvia interrupta. 
 
 ![Image Hierchical clustering](https://user-images.githubusercontent.com/103578179/172424154-a70e4c41-2713-49a7-bc7c-ada24e2a32fe.png)
 
-The PCA is another way to analysis the distance and relation between subgenus. Here we can see that Salvia and Sclarea are separated from each other. Compared to the study it's suprizing but we have not enougth evidence to explain it.  We get a nice clustering for all plants from Salvia subgenus except for Salvia interrupta. 
+The PCA is another way to analysis the distance and relation between subgenus. Here we can see that Salvia and Sclarea are separated from each other. Compared to the study it's suprizing but we have not enougth evidence to explain it. 
 
 ![PCA](https://user-images.githubusercontent.com/103578179/172426464-65f8f503-32cd-4a2d-a1f1-bfbad107a09b.png)
 
