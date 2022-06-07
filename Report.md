@@ -139,10 +139,11 @@ Link to the GNPS identification table:
 ![Legend complete](https://user-images.githubusercontent.com/103578333/172071591-e52f83c3-e529-486c-b62c-b02fa89e90bf.png)
 ![Legend of molecular Network](https://user-images.githubusercontent.com/103578333/172025698-53ab47b8-47dd-4c04-b0f4-ea09f2f9ed78.png)
 
-The two subnetworks correspond to features mostly found amongst the Salvia clade, which also appeared to cluster well in the hierchical clustering. At left, the 1<sup>st</sup> subnetwork comprises 2 different annotated compounds, both correspnding to triterpens namely Sumaresinolic acid and Asiatic acid. Although other nodes from the graph were not annotated, the small differences in parent masses could suggest that this network comprises of other triterpens with a minimum of 30 carbon atoms.
+The two subnetworks correspond to features mostly found amongst the Salvia clade, which also appeared to cluster well in the hierchical clustering. 
+
+At left, the 1<sup>st</sup> subnetwork comprises 2 different annotated compounds, both correspnding to triterpens namely Sumaresinolic acid and Asiatic acid. Although other nodes from the graph were not annotated, the small differences in parent masses could suggest that this network comprises of other triterpens with a minimum of 30 carbon atoms.
 
 At the right side, the 2<sup>nd</sup>  cluster belongs to sumaresinolic acid. It seems to be interesting because this compound is positionned in the hierarchical clustering at the position of Salvia clustering. 
-
 
 ![Carnosol_Cluster and Terpene Cluster](https://user-images.githubusercontent.com/103578333/172474393-12c6d3c0-8411-4530-8618-0b837da44d12.png)
 
