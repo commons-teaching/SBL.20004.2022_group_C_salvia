@@ -123,7 +123,7 @@ Total annotations
 ### MS1
 (remove?)
 
-###Samples clustering based on all features:
+### Samples clustering based on all features:
 Gapfilled data was used to perform hierchical clustering. Generated dendrograms were compared to the phylogenetic analyses reported in the litterature.
 
 
@@ -153,8 +153,8 @@ Link to the GNPS identification table:
 ![Terpene_Cluster](https://user-images.githubusercontent.com/103578179/172426994-16e3a344-71bc-4997-a57f-02b00c7a462f.png)
 
 
-![Image Phylogenic tree](https://user-images.githubusercontent.com/103578179/172424154-a70e4c41-2713-49a7-bc7c-ada24e2a32fe.png)
-[Phylo_tree Link](https://user-images.githubusercontent.com/103578179/172423346-0f690aec-6c3c-4808-b8b5-21f190e380fb.png)
+![Image Hierchical clustering](https://user-images.githubusercontent.com/103578179/172424154-a70e4c41-2713-49a7-bc7c-ada24e2a32fe.png)
+[Hierchical clustering Link](https://user-images.githubusercontent.com/103578179/172423346-0f690aec-6c3c-4808-b8b5-21f190e380fb.png)
 
 ![PCA](https://user-images.githubusercontent.com/103578179/172426464-65f8f503-32cd-4a2d-a1f1-bfbad107a09b.png)
 
