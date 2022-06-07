@@ -142,9 +142,9 @@ The two subnetworks correspond to features mostly found amongst the Salvia clade
 
 ![Carnosol_ inside_Salvia](https://user-images.githubusercontent.com/103578333/172431088-6b0ab448-54d6-4db8-8828-43766c45f9a5.png)
 
-To do this piechart, we have extracted data table from cytoscape and looked precisely at a interesting compound such as Carnosol inside Salvia subgenus. We observed that we get several hits for same compound_name because several features are associated one compound for each strain. So we take into account the higher one and we compare each salvia.
+To do this piechart, we have extracted data table from cytoscape and looked precisely at a interesting compound such as Carnosol inside Salvia subgenus. We observed that we get several hits for same compound_name because several features are associated to one compound_name for each plant. So we take into account the higher one and we compare each plants insde subgenus Salvia.
 
-The cluster of sumaresinolic acid seems to be interesting because this compound is positionned in the hierarchical clustering at the position of salvia clustering. 
+The cluster of sumaresinolic acid seems to be interesting because this compound is positionned in the hierarchical clustering at the position of Salvia clustering. 
 
 ![Terpene_Cluster](https://user-images.githubusercontent.com/103578179/172426994-16e3a344-71bc-4997-a57f-02b00c7a462f.png)
 
