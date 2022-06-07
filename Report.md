@@ -150,19 +150,22 @@ Link to the GNPS identification table:
 
 ![Carnosol_ inside_Salvia](https://user-images.githubusercontent.com/103578333/172431088-6b0ab448-54d6-4db8-8828-43766c45f9a5.png)
 
+To do this piechart, we have extracted data table from cytoscape and looked precisely at a interesting compound such as Carnosol inside Salvia subgenus. We observed that we get several hits for same compound_name are attibuted at several features. So we take into account the higher one and we compare each salvia.
+
+The cluster of sumaresinolic acid seems to be interesting because this compound is positionned in the hierarchical clustering at the position of salvia clustering. 
 
 ![Terpene_Cluster](https://user-images.githubusercontent.com/103578179/172426994-16e3a344-71bc-4997-a57f-02b00c7a462f.png)
 
-
 ![Image Hierchical clustering](https://user-images.githubusercontent.com/103578179/172424154-a70e4c41-2713-49a7-bc7c-ada24e2a32fe.png)
-[Hierchical clustering Link](https://user-images.githubusercontent.com/103578179/172423346-0f690aec-6c3c-4808-b8b5-21f190e380fb.png)
+
+The PCA is another way to analysis the distance and relation between subgenus. Here we can see that Salvia and Sclarea are separated from each other. Compared to the study it's suprizing but ... 
 
 ![PCA](https://user-images.githubusercontent.com/103578179/172426464-65f8f503-32cd-4a2d-a1f1-bfbad107a09b.png)
 
 
 ## Conclusion
 
-
+The analysis of the metaboloms were difficults because 65-210 features were identified. We can see similarities between our work and the study used as comparison but we cannot pointed specific cluster explaining the phylogeny. 
 
 # References
 
