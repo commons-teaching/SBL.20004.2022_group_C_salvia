@@ -143,7 +143,7 @@ The two subnetworks correspond to features mostly found amongst the Salvia clade
 
 At left, the 1<sup>st</sup> subnetwork comprises 2 different annotated compounds, both correspnding to triterpens namely Sumaresinolic acid and Asiatic acid. Although other nodes from the graph were not annotated, the small differences in parent masses could suggest that this network comprises of other triterpens with a minimum of 30 carbon atoms.
 
-At the right side, the 2<sup>nd</sup>  cluster belongs to sumaresinolic acid. It seems to be interesting because this compound is positionned in the hierarchical clustering at the position of Salvia clustering. 
+At right, the 2<sup>nd</sup>  cluster belongs to sumaresinolic acid. It seems to be interesting because this compound is positionned in the hierarchical clustering at the position of Salvia clustering. 
 
 ![Carnosol_Cluster and Terpene Cluster](https://user-images.githubusercontent.com/103578333/172474393-12c6d3c0-8411-4530-8618-0b837da44d12.png)
 
