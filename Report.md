@@ -146,7 +146,8 @@ Link to the GNPS identification table:
 
 #### Network
 
-![Network](https://user-images.githubusercontent.com/103578179/172425400-518a6c82-81b3-4771-843f-004021b2519e.png)
+![Network](https://user-images.githubusercontent.com/103578179/172425883-1ce00612-1896-4d17-9f14-bdea81af399e.png)
+
 
 
 ![Image Phylogenic tree](https://user-images.githubusercontent.com/103578179/172424154-a70e4c41-2713-49a7-bc7c-ada24e2a32fe.png)
