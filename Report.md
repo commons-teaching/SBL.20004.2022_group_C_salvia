@@ -145,14 +145,14 @@ The two subnetworks correspond to features mostly found amongst the Salvia clade
 
 ![Carnosol_ inside_Salvia](https://user-images.githubusercontent.com/103578333/172431088-6b0ab448-54d6-4db8-8828-43766c45f9a5.png)
 
-To do this piechart, we have extracted data table from cytoscape and looked precisely at a interesting compound such as Carnosol inside Salvia subgenus. We observed that we get several hits for same compound_name because several features are associated to one compound_name for each plant. So we take into account the higher one and we compare each plants insde subgenus Salvia.
+To do this piechart, we have extracted data table from cytoscape and looked precisely at a interesting compound such as Carnosol inside Salvia subgenus. We observed that we get several hits for same compound_name because several features are associated to one compound_name for each plant. So we take into account the higher one and we compare each plants insde subgenus Salvia. We can conclude that Carnosol is more specific to Salvia officinalis than to Salvia subgenus. 
 
 The cluster of sumaresinolic acid seems to be interesting because this compound is positionned in the hierarchical clustering at the position of Salvia clustering. 
 
 ![Terpene_Cluster](https://user-images.githubusercontent.com/103578179/172426994-16e3a344-71bc-4997-a57f-02b00c7a462f.png)
 
 ### Samples clustering based on all features:
-Gapfilled data was used to perform hierchical clustering. Generated dendrograms were compared to the phylogenetic analyses reported in the litterature [2].
+Gapfilled data was used to perform hierchical clustering. Generated dendrograms were compared to the phylogenetic analyses reported in the already mentionned study [2].
 
 ![Image Hierchical clustering](https://user-images.githubusercontent.com/103578179/172424154-a70e4c41-2713-49a7-bc7c-ada24e2a32fe.png)
 
@@ -163,7 +163,7 @@ The PCA is another way to analysis the distance and relation between subgenus. H
 
 ## Conclusion
 
-The analysis of the metabolom was difficult a few features were linked to a compound (1666 features in total, more or less 430 identified and named based on GNPS database, and 216 features, after remove duplicates compound name). We can see similarities between our work and the study used as comparison but we cannot pointed out specific clusters explaining the phylogeny. 
+The analysis of the metabolom was difficult because a few features were linked to a compound (1666 features in total, more or less 430 identified and named based on GNPS database, and more or less 215 features depend on the plant, after remove duplicates compound name associated). We can see similarities between our work and the study used as comparison but we cannot pointed out specific clusters explaining the phylogeny. 
 
 # References
 
