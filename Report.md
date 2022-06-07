@@ -116,7 +116,17 @@ The output files were visualise using [cytoscape](https://cytoscape.org/) softwa
 
 ## Results
 
+###Overview:
+Cleaned peak etc.
+Total annotations
+
 ### MS1
+(remove?)
+
+###Samples clustering based on all features:
+Gapfilled data was used to perform hierchical clustering. Data is normalized with z-score row-wise.
+
+
 
 ### Molecular Network
 
