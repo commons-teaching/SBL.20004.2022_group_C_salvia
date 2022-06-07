@@ -153,6 +153,7 @@ Link to the GNPS identification table:
 ![Image Phylogenic tree](https://user-images.githubusercontent.com/103578179/172424154-a70e4c41-2713-49a7-bc7c-ada24e2a32fe.png)
 [Phylo_tree Link](https://user-images.githubusercontent.com/103578179/172423346-0f690aec-6c3c-4808-b8b5-21f190e380fb.png)
 
+![PCA](https://user-images.githubusercontent.com/103578179/172426464-65f8f503-32cd-4a2d-a1f1-bfbad107a09b.png)
 
 
 ## Conclusion
