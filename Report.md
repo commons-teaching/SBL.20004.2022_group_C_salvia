@@ -163,7 +163,7 @@ The PCA is another way to analysis the distance and relation between subgenus. H
 
 ## Conclusion
 
-The analysis of the metaboloms were difficults because based on 1666 features measured, more or less 430 features were identified by GNPS database and 216 after duplicates remove, for Glutinaria subgenus. We can see similarities between our work and the study used as comparison but we cannot pointed out a specific cluster explaining the phylogeny. 
+The analysis of the metabolom was difficult a few features were linked to a compound (1666 features in total, more or less 430 identified and named based on GNPS database, and 216 features, after remove duplicates compound name). We can see similarities between our work and the study used as comparison but we cannot pointed out specific clusters explaining the phylogeny. 
 
 # References
 
