@@ -125,8 +125,8 @@ Two molecular networks were performed by GNPS:
 - [GNPS job n°2](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=10d92d779bd741d09af035b2e89d7bad): with gap filled and Salvia Candelabrum is assigned to Salvia subgenus.
 
 Link to the GNPS identification table:
-- [Table list job 1](https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=d9eb8151a9f5459dad892bb449ccc95a&view=view_all_annotations_DB)
-- [Table list job 2](https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=10d92d779bd741d09af035b2e89d7bad&view=view_all_annotations_DB)
+- [Table list job n°1](https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=d9eb8151a9f5459dad892bb449ccc95a&view=view_all_annotations_DB)
+- [Table list job n°2](https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=10d92d779bd741d09af035b2e89d7bad&view=view_all_annotations_DB)
 
 #### Network n° 1:
 
