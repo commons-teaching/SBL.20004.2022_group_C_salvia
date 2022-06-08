@@ -122,7 +122,7 @@ The output files were visualise using [cytoscape](https://cytoscape.org/) softwa
 
 ### MS
 
-The barplot below shows the effects of data treatment with MZmind on the number of peaks. 
+The following barplot shows the effects of data treatment with MZmine on the number of peaks. 
 
 ![MZmind_treated_data](https://user-images.githubusercontent.com/103578333/172430700-65edce29-a4c9-4c0b-bd42-0b013745d736.png)
 
